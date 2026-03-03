@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 03.03.2026 [Optimizing Recommendation Systems with J...](https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss-c3aeaf49d8a4------2) - Netflix
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 24.02.2026 [DataJunction as Netflix’s answer to th...](https://netflixtechblog.medium.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 23.02.2026 [The engineeringification of everything](https://newsletter.posthog.com/p/the-engineeringification-of-everything) - PostHog
@@ -16,7 +17,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
 - 13.02.2026 [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss-c3aeaf49d8a4------2) - Netflix
 - 12.02.2026 [Automating RDS Postgres to Aurora Postgr...](https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss-c3aeaf49d8a4------2) - Netflix
-- 09.02.2026 [High-Throughput Graph Abstraction at Net...](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.02.2026 [The hidden danger of shipping fast](https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast) - PostHog
 - 09.02.2026 [How We Release the Spotify App: A Look U...](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) - Spotify
 - 05.02.2026 [Clankers with claws](https://world.hey.com/dhh/clankers-with-claws-9f86fa71) - DHH
