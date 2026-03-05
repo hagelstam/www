@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
 - 03.03.2026 [Optimizing Recommendation Systems with J...](https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss-c3aeaf49d8a4------2) - Netflix
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 24.02.2026 [DataJunction as Netflix’s answer to th...](https://netflixtechblog.medium.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -55,7 +56,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
 - 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 04.10.2025 [Sora update #1](https://blog.samaltman.com/sora-update-number-1) - Sam Altman
-- 02.10.2025 [Accelerating Mobile App development at Z...](https://engineering.zalando.com/posts/2025/10/accelerating-mobile-app-development-at-zalando-with-rendering-engine-and-react-native.html) - Zalando
 - 30.09.2025 [Sora 2](https://blog.samaltman.com/sora-2) - Sam Altman
 - 29.09.2025 [Spelungit: When `git log –grep` isn’...](https://haacked.com/archive/2025/09/29/announcing-spelungit/) - Phil Haack
 - 23.09.2025 [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence) - Sam Altman
