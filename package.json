@@ -11,15 +11,15 @@
     "clean": "rm -rf .astro .vercel .vscode node_modules dist"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.0",
-    "@astrojs/vercel": "^9.0.4",
-    "astro": "^5.18.0"
+    "@astrojs/sitemap": "^3.7.1",
+    "@astrojs/vercel": "^10.0.0",
+    "astro": "^6.0.1"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.6",
+    "@astrojs/check": "^0.9.7",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.2.1",
-    "@types/bun": "^1.3.9",
+    "@types/bun": "^1.3.10",
     "prettier": "^3.8.1",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
