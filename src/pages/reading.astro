@@ -2,11 +2,12 @@
 import Icon from '@/components/Icons.astro'
 import Layout from '@/layouts/Layout.astro'
 import { config } from '@/config'
+import { formatDate } from '@/utils/date'
 import fs from 'fs'
 import path from 'path'
 
 interface Article {
-  date: string
+  date: Date
   title: string
   link: string
   blogName: string
@@ -21,8 +22,9 @@ try {
   let match
 
   while ((match = regex.exec(content)) !== null) {
+    const [day, month, year] = match[1]!.split('.')
     articles.push({
-      date: match[1]!,
+      date: new Date(Number(year), Number(month) - 1, Number(day)),
       title: match[2]!,
       link: match[3]!,
       blogName: match[4]!,
@@ -30,13 +32,6 @@ try {
   }
 } catch (error) {
   console.error('error parsing reading list:', error)
-}
-
-const formatDate = (dateStr: string) => {
-  const [day, month, year] = dateStr.split('.')
-  const date = new Date(Number(year), Number(month) - 1, Number(day))
-  const monthName = date.toLocaleDateString('en-UK', { month: 'short' })
-  return `${day} ${monthName} ${year}`
 }
 ---
 

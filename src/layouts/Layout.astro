@@ -10,6 +10,7 @@ export interface Props {
   canonicalURL?: string
   type?: 'website' | 'article'
   header: string
+  publishedDate?: Date
 }
 
 const {
@@ -19,6 +20,7 @@ const {
   canonicalURL,
   type = 'website',
   header,
+  publishedDate,
 } = Astro.props
 
 const canonicalUrl = canonicalURL || new URL(Astro.url.pathname, Astro.site)
@@ -56,16 +58,32 @@ const jsonLd = {
         url: 'https://www.abo.fi',
       },
     },
-    {
-      '@type': 'WebPage',
-      '@id': canonicalUrl.toString(),
-      url: canonicalUrl.toString(),
-      name: title,
-      description: description,
-      isPartOf: { '@id': `${config.site.url}/#website` },
-      about: { '@id': `${config.site.url}/#person` },
-      inLanguage: config.site.locale,
-    },
+    ...(type === 'article' && publishedDate
+      ? [
+          {
+            '@type': 'BlogPosting',
+            '@id': canonicalUrl.toString(),
+            url: canonicalUrl.toString(),
+            headline: title,
+            description: description,
+            datePublished: publishedDate.toISOString(),
+            author: { '@id': `${config.site.url}/#person` },
+            isPartOf: { '@id': `${config.site.url}/#website` },
+            inLanguage: config.site.locale,
+          },
+        ]
+      : [
+          {
+            '@type': 'WebPage',
+            '@id': canonicalUrl.toString(),
+            url: canonicalUrl.toString(),
+            name: title,
+            description: description,
+            isPartOf: { '@id': `${config.site.url}/#website` },
+            about: { '@id': `${config.site.url}/#person` },
+            inLanguage: config.site.locale,
+          },
+        ]),
   ],
 }
 ---
