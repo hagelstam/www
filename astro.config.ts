@@ -8,6 +8,9 @@ export default defineConfig({
   site: 'https://maximilianhagelstam.com',
   output: 'static',
   trailingSlash: 'never',
+  prefetch: {
+    prefetchAll: true,
+  },
   adapter: vercel({
     webAnalytics: { enabled: true },
     imageService: true,
