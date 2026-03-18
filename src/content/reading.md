@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) - DHH
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
 - 11.03.2026 [WTF does a product manager do? (and why ...](https://newsletter.posthog.com/p/an-engineers-guide-to-product-management) - PostHog
@@ -48,7 +49,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
 - 23.12.2025 [2025](/2025/) - Sam Rose
-- 18.12.2025 [Contributing to Debezium: Fixing Logical...](https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html) - Zalando
 - 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
 - 13.12.2025 [The Pulse: Could a 5-day RTO be around t...](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/) - Gergely Orosz
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
