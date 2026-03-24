@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 23.03.2026 [Denmark desperately needs more inequalit...](https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0) - DHH
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) - DHH
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
@@ -46,7 +47,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
-- 07.01.2026 [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) - DHH
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
