@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
 - 23.03.2026 [Denmark desperately needs more inequalit...](https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0) - DHH
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) - DHH
@@ -40,7 +41,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
 - 14.01.2026 [Paper Announcement: A Practical Approach...](https://engineering.zalando.com/posts/2026/01/publication-replenishment-engine.html) - Zalando
-- 12.01.2026 [How I actually get good advice](https://newsletter.posthog.com/p/how-i-actually-get-good-advice) - PostHog
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
 - 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
