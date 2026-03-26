@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 25.03.2026 [Basecamp becomes agent accessible](https://world.hey.com/dhh/basecamp-becomes-agent-accessible-3ae6b949) - DHH
+- 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
 - 23.03.2026 [Denmark desperately needs more inequalit...](https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0) - DHH
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
@@ -31,7 +33,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 09.02.2026 [How We Release the Spotify App: A Look U...](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) - Spotify
 - 05.02.2026 [Clankers with claws](https://world.hey.com/dhh/clankers-with-claws-9f86fa71) - DHH
 - 05.02.2026 [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) - Mitchell Hashimoto
-- 03.02.2026 [Cloud gaming is kinda amazing](https://world.hey.com/dhh/cloud-gaming-is-kinda-amazing-b8a19c57) - DHH
 - 29.01.2026 [I replaced a $120/year micro-SaaS in 20 ...](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/) - Gergely Orosz
 - 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
 - 27.01.2026 [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) - Julia Evans
@@ -71,7 +72,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
 - 17.04.2025 [Cleaning up gone branches](https://haacked.com/archive/2025/04/17/git-gone/) - Phil Haack
-- 25.02.2025 [Using PostHog in your .NET applications](https://haacked.com/archive/2025/02/25/posthog-dotnet-1.0/) - Phil Haack
 - 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
