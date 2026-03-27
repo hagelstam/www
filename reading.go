@@ -29,7 +29,6 @@ const MAX_TITLE_LENGTH = 40
 func main() {
 	feeds := []RSSFeed{
 		{URL: "https://mitchellh.com/feed.xml", Name: "Mitchell Hashimoto"},
-		{URL: "https://blog.samaltman.com/posts.atom", Name: "Sam Altman"},
 		{URL: "https://erikbern.com/feed.xml", Name: "Erik Bernhardsson"},
 		{URL: "https://jvns.ca/atom.xml", Name: "Julia Evans"},
 		{URL: "https://feeds.feedburner.com/ThePragmaticEngineer", Name: "Gergely Orosz"},
@@ -40,10 +39,15 @@ func main() {
 		{URL: "https://research.swtch.com/feed.atom", Name: "Russ Cox"},
 		{URL: "http://feeds.haacked.com/haacked", Name: "Phil Haack"},
 		{URL: "https://bobheadxi.dev/feed.xml", Name: "Robert Lin"},
+		{URL: "https://arslan.io/rss", Name: "Faith Arslan"},
 
 		{URL: "https://netflixtechblog.medium.com/feed", Name: "Netflix"},
 		{URL: "https://engineering.atspotify.com/feed", Name: "Spotify"},
 		{URL: "https://engineering.zalando.com/atom.xml", Name: "Zalando"},
+		{URL: "https://engineering.zalando.com/atom.xml", Name: "Zalando"},
+		{URL: "https://planetscale.com/blog/feed.atom", Name: "PlanetScale"},
+		{URL: "https://fly.io/blog/feed.xml", Name: "Fly"},
+		{URL: "https://go.dev/blog/feed.atom", Name: "Go"},
 
 		{URL: "https://newsletter.posthog.com/feed", Name: "PostHog"},
 		{URL: "https://highscalability.com/rss", Name: "High Scalability"},
