@@ -11,9 +11,9 @@
     "clean": "rm -rf .astro .vercel .vscode node_modules dist"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.1",
-    "@astrojs/vercel": "^10.0.2",
-    "astro": "^6.0.8"
+    "@astrojs/sitemap": "^3.7.2",
+    "@astrojs/vercel": "^10.0.3",
+    "astro": "^6.1.1"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.8",
@@ -24,6 +24,6 @@
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4.2.2",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.2"
   }
 }
