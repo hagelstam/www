@@ -7,25 +7,26 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 31.03.2026 [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) - PlanetScale
 - 30.03.2026 [High memory usage in Postgres is good, a...](https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually) - PlanetScale
 - 27.03.2026 [Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/) - Gergely Orosz
 - 26.03.2026 [Stripe Projects partnership: Provision P...](https://planetscale.com/blog/planetscale-stripe-projects-partnership) - PlanetScale
 - 25.03.2026 [Basecamp becomes agent accessible](https://world.hey.com/dhh/basecamp-becomes-agent-accessible-3ae6b949) - DHH
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
-- 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 24.03.2026 [Enhanced tagging in Postgres Query Insig...](https://planetscale.com/blog/enhanced-tagging-in-postgres-query-insights) - PlanetScale
+- 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 23.03.2026 [Denmark desperately needs more inequalit...](https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0) - DHH
 - 23.03.2026 [Behind the scenes: How Database Traffic ...](https://planetscale.com/blog/behind-the-scenes-how-traffic-control-works) - PlanetScale
-- 23.03.2026 [Introducing Database Traffic Control](https://planetscale.com/blog/introducing-database-traffic-control) - PlanetScale
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) - DHH
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
 - 11.03.2026 [WTF does a product manager do? (and why ...](https://newsletter.posthog.com/p/an-engineers-guide-to-product-management) - PostHog
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
+- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 06.03.2026 [Scaling Global Storytelling: Modernizing...](https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -40,6 +41,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.02.2026 [MediaFM: The Multimodal AI Foundation fo...](https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss-c3aeaf49d8a4------2) - Netflix
 - 19.02.2026 [Our Multi-Agent Architecture for Smarter...](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) - Spotify
 - 18.02.2026 [Omacon comes to New York](https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb) - DHH
+- 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
 - 13.02.2026 [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss-c3aeaf49d8a4------2) - Netflix
 - 10.02.2026 [Go 1.26 is released](https://go.dev/blog/go1.26) - Go
@@ -51,6 +53,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
 - 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
+- 27.01.2026 [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) - Julia Evans
 - 26.01.2026 [10x job posts for 10x engineers](https://newsletter.posthog.com/p/10x-job-posts-for-10x-engineers) - PostHog
 - 22.01.2026 [Congratulations to the recipients of the...](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) - Spotify
 - 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
@@ -63,6 +66,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
 - 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
 - 09.01.2026 [Code And Let Live](https://fly.io/blog/code-and-let-live/) - Fly
+- 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 07.01.2026 [The grief when AI writes most of the cod...](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/) - Gergely Orosz
 - 07.01.2026 [Why We Use Separate Tech Stacks for Pers...](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) - Spotify
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
@@ -77,6 +81,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 18.11.2025 [My two-part desk setup](https://arslan.io/2025/11/18/my-two-part-desk-setup/) - Faith Arslan
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 11.10.2025 [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) - Mitchell Hashimoto
+- 10.10.2025 [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/) - Julia Evans
 - 29.09.2025 [Spelungit: When `git log –grep` isn’...](https://haacked.com/archive/2025/09/29/announcing-spelungit/) - Phil Haack
 - 21.09.2025 [From single-tenant to multi-tenant](https://bobheadxi.dev/multi-tenant/) - Robert Lin
 - 20.09.2025 [Building and operating online services a...](https://bobheadxi.dev/managed-services-platform/) - Robert Lin
