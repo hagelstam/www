@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 02.04.2026 [Smarter Live Streaming at Scale: Rolling...](https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc?source=rss-c3aeaf49d8a4------2) - Netflix
+- 02.04.2026 [Patterns for Postgres Traffic Control](https://planetscale.com/blog/patterns-for-postgres-traffic-control) - PlanetScale
 - 31.03.2026 [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) - PlanetScale
 - 30.03.2026 [High memory usage in Postgres is good, a...](https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually) - PlanetScale
 - 27.03.2026 [Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/) - Gergely Orosz
@@ -17,16 +19,15 @@ This page is automatically updated every night with the latest posts from blogs 
 - 24.03.2026 [Enhanced tagging in Postgres Query Insig...](https://planetscale.com/blog/enhanced-tagging-in-postgres-query-insights) - PlanetScale
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 23.03.2026 [Denmark desperately needs more inequalit...](https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0) - DHH
-- 23.03.2026 [Behind the scenes: How Database Traffic ...](https://planetscale.com/blog/behind-the-scenes-how-traffic-control-works) - PlanetScale
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) - DHH
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
 - 11.03.2026 [WTF does a product manager do? (and why ...](https://newsletter.posthog.com/p/an-engineers-guide-to-product-management) - PostHog
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 06.03.2026 [Scaling Global Storytelling: Modernizing...](https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -43,7 +44,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 18.02.2026 [Omacon comes to New York](https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb) - DHH
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
-- 13.02.2026 [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss-c3aeaf49d8a4------2) - Netflix
 - 10.02.2026 [Go 1.26 is released](https://go.dev/blog/go1.26) - Go
 - 09.02.2026 [The hidden danger of shipping fast](https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast) - PostHog
 - 09.02.2026 [How We Release the Spotify App: A Look U...](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) - Spotify
