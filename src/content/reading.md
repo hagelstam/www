@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 03.04.2026 [Powering Multimodal Intelligence for Vid...](https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202?source=rss-c3aeaf49d8a4------2) - Netflix
+- 03.04.2026 [The Pulse: is GitHub still best for AI-n...](https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/) - Gergely Orosz
 - 02.04.2026 [Smarter Live Streaming at Scale: Rolling...](https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc?source=rss-c3aeaf49d8a4------2) - Netflix
 - 02.04.2026 [Patterns for Postgres Traffic Control](https://planetscale.com/blog/patterns-for-postgres-traffic-control) - PlanetScale
 - 31.03.2026 [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) - PlanetScale
@@ -16,8 +18,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 25.03.2026 [Basecamp becomes agent accessible](https://world.hey.com/dhh/basecamp-becomes-agent-accessible-3ae6b949) - DHH
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
-- 24.03.2026 [Enhanced tagging in Postgres Query Insig...](https://planetscale.com/blog/enhanced-tagging-in-postgres-query-insights) - PlanetScale
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
+- 24.03.2026 [Enhanced tagging in Postgres Query Insig...](https://planetscale.com/blog/enhanced-tagging-in-postgres-query-insights) - PlanetScale
 - 23.03.2026 [Denmark desperately needs more inequalit...](https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0) - DHH
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
@@ -25,9 +27,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) - DHH
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
 - 11.03.2026 [WTF does a product manager do? (and why ...](https://newsletter.posthog.com/p/an-engineers-guide-to-product-management) - PostHog
+- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
-- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 06.03.2026 [Scaling Global Storytelling: Modernizing...](https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -39,7 +41,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 24.02.2026 [DataJunction as Netflix’s answer to th...](https://netflixtechblog.medium.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss-c3aeaf49d8a4------2) - Netflix
 - 23.02.2026 [The engineeringification of everything](https://newsletter.posthog.com/p/the-engineeringification-of-everything) - PostHog
-- 23.02.2026 [MediaFM: The Multimodal AI Foundation fo...](https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss-c3aeaf49d8a4------2) - Netflix
 - 19.02.2026 [Our Multi-Agent Architecture for Smarter...](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) - Spotify
 - 18.02.2026 [Omacon comes to New York](https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb) - DHH
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
@@ -73,7 +74,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 26.12.2025 [Books I Read in 2025](https://arslan.io/2025/12/26/books-i-read-in-2025/) - Faith Arslan
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 19.12.2025 [A Look at My Fountain Pens](https://arslan.io/2025/12/19/a-look-at-my-fountain-pens/) - Faith Arslan
-- 18.12.2025 [The Pulse: Cloudflare’s latest outage ...](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/) - Gergely Orosz
 - 11.12.2025 [Litestream VFS](https://fly.io/blog/litestream-vfs/) - Fly
 - 04.12.2025 [Midori MD Notebooks](https://arslan.io/2025/12/04/midori-md-notebooks/) - Faith Arslan
 - 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
