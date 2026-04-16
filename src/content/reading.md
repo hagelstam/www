@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 15.04.2026 [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) - DHH
+- 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 10.04.2026 [Evaluating Netflix Show Synopses with LL...](https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss-c3aeaf49d8a4------2) - Netflix
 - 10.04.2026 [Keeping a Postgres queue healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy) - PlanetScale
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
@@ -48,7 +50,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 23.02.2026 [The engineeringification of everything](https://newsletter.posthog.com/p/the-engineeringification-of-everything) - PostHog
 - 19.02.2026 [Our Multi-Agent Architecture for Smarter...](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) - Spotify
-- 18.02.2026 [Omacon comes to New York](https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb) - DHH
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
 - 10.02.2026 [Go 1.26 is released](https://go.dev/blog/go1.26) - Go
@@ -77,7 +78,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.12.2025 [A Look at My Fountain Pens](https://arslan.io/2025/12/19/a-look-at-my-fountain-pens/) - Faith Arslan
 - 11.12.2025 [Litestream VFS](https://fly.io/blog/litestream-vfs/) - Fly
 - 04.12.2025 [Midori MD Notebooks](https://arslan.io/2025/12/04/midori-md-notebooks/) - Faith Arslan
-- 03.12.2025 [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit) - Mitchell Hashimoto
 - 21.11.2025 [tree-me: Because git worktrees shouldnâ€...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [My two-part desk setup](https://arslan.io/2025/11/18/my-two-part-desk-setup/) - Faith Arslan
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
