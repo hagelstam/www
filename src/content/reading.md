@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 17.04.2026 [The Human Infrastructure: How Netflix Bu...](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss-c3aeaf49d8a4------2) - Netflix
 - 16.04.2026 [Predicting Risk in Content Launches: How...](https://netflixtechblog.medium.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss-c3aeaf49d8a4------2) - Netflix
 - 15.04.2026 [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) - DHH
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
@@ -21,7 +22,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.04.2026 [Panther Lake is the real deal](https://world.hey.com/dhh/panther-lake-is-the-real-deal-4bd731f1) - DHH
 - 03.04.2026 [Powering Multimodal Intelligence for Vid...](https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202?source=rss-c3aeaf49d8a4------2) - Netflix
 - 03.04.2026 [The Pulse: is GitHub still best for AI-n...](https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/) - Gergely Orosz
-- 02.04.2026 [Smarter Live Streaming at Scale: Rolling...](https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc?source=rss-c3aeaf49d8a4------2) - Netflix
 - 02.04.2026 [Patterns for Postgres Traffic Control](https://planetscale.com/blog/patterns-for-postgres-traffic-control) - PlanetScale
 - 31.03.2026 [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) - PlanetScale
 - 30.03.2026 [High memory usage in Postgres is good, a...](https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually) - PlanetScale
@@ -38,8 +38,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) - DHH
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
 - 11.03.2026 [WTF does a product manager do? (and why ...](https://newsletter.posthog.com/p/an-engineers-guide-to-product-management) - PostHog
-- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
+- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
