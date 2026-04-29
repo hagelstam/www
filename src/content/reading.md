@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 24.04.2026 [Scaling Camera File Processing at Netfli...](https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss-c3aeaf49d8a4------2) - Netflix
 - 23.04.2026 [The Pulse: ‘Tokenmaxxing’ as a weird...](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) - Gergely Orosz
 - 22.04.2026 [Background Coding Agents: Supercharging ...](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) - Spotify
@@ -69,7 +70,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 14.01.2026 [The Design & Implementation of Sprites](https://fly.io/blog/design-and-implementation/) - Fly
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
-- 10.01.2026 [Finding and Fixing Ghostty's Largest Mem...](https://mitchellh.com/writing/ghostty-memory-leak-fix) - Mitchell Hashimoto
 - 09.01.2026 [Code And Let Live](https://fly.io/blog/code-and-let-live/) - Fly
 - 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
