@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 04.05.2026 [Democratizing Machine Learning at Netfli...](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss-c3aeaf49d8a4------2) - Netflix
+- 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
 - 01.05.2026 [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.05.2026 [Building a Natural Language Interface to...](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) - Spotify
@@ -23,7 +25,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.04.2026 [Predicting Risk in Content Launches: How...](https://netflixtechblog.medium.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss-c3aeaf49d8a4------2) - Netflix
 - 15.04.2026 [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) - DHH
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
-- 10.04.2026 [Evaluating Netflix Show Synopses with LL...](https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss-c3aeaf49d8a4------2) - Netflix
 - 10.04.2026 [Keeping a Postgres queue healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy) - PlanetScale
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
@@ -45,9 +46,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
 - 11.03.2026 [WTF does a product manager do? (and why ...](https://newsletter.posthog.com/p/an-engineers-guide-to-product-management) - PostHog
+- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
-- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 05.03.2026 [The Pulse: Cloudflare rewrites Next.js a...](https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/) - Gergely Orosz
@@ -72,7 +73,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
 - 09.01.2026 [Code And Let Live](https://fly.io/blog/code-and-let-live/) - Fly
-- 08.01.2026 [A data model for Git (and other docs upd...](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/) - Julia Evans
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
 - 26.12.2025 [Books I Read in 2025](https://arslan.io/2025/12/26/books-i-read-in-2025/) - Faith Arslan
 - 23.12.2025 [2025](/2025/) - Sam Rose
