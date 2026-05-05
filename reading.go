@@ -40,6 +40,8 @@ func main() {
 		{URL: "http://feeds.haacked.com/haacked", Name: "Phil Haack"},
 		{URL: "https://bobheadxi.dev/feed.xml", Name: "Robert Lin"},
 		{URL: "https://arslan.io/rss", Name: "Faith Arslan"},
+		{URL: "https://stephango.com/feed.xml", Name: "Steph Ango"},
+
 
 		{URL: "https://netflixtechblog.medium.com/feed", Name: "Netflix"},
 		{URL: "https://engineering.atspotify.com/feed", Name: "Spotify"},
