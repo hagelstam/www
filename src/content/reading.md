@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
+- 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
 - 04.05.2026 [Democratizing Machine Learning at Netfli...](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss-c3aeaf49d8a4------2) - Netflix
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
@@ -33,8 +35,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.04.2026 [Let’s Talk Agentic Development: Spotif...](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) - Spotify
 - 06.04.2026 [Panther Lake is the real deal](https://world.hey.com/dhh/panther-lake-is-the-real-deal-4bd731f1) - DHH
 - 03.04.2026 [The Pulse: is GitHub still best for AI-n...](https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/) - Gergely Orosz
-- 02.04.2026 [Patterns for Postgres Traffic Control](https://planetscale.com/blog/patterns-for-postgres-traffic-control) - PlanetScale
-- 31.03.2026 [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) - PlanetScale
 - 27.03.2026 [Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/) - Gergely Orosz
 - 25.03.2026 [Basecamp becomes agent accessible](https://world.hey.com/dhh/basecamp-becomes-agent-accessible-3ae6b949) - DHH
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
@@ -82,6 +82,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.11.2025 [tree-me: Because git worktrees shouldn�...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [My two-part desk setup](https://arslan.io/2025/11/18/my-two-part-desk-setup/) - Faith Arslan
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
+- 20.10.2025 [Use the saw, fear the saw](https://stephango.com/saw) - Steph Ango
 - 29.09.2025 [Spelungit: When `git log –grep` isn’...](https://haacked.com/archive/2025/09/29/announcing-spelungit/) - Phil Haack
 - 21.09.2025 [From single-tenant to multi-tenant](https://bobheadxi.dev/multi-tenant/) - Robert Lin
 - 20.09.2025 [Building and operating online services a...](https://bobheadxi.dev/managed-services-platform/) - Robert Lin
@@ -89,15 +90,19 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 15.08.2025 [The 90s UNIX Utility That Fell Out of Fa...](https://blog.alexellis.io/the-90s-unix-command-fell-out-of-favour/) - Alex Ellis
+- 31.07.2025 [If you're remote, ramble](https://stephango.com/ramblings) - Steph Ango
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
 - 17.04.2025 [Cleaning up gone branches](https://haacked.com/archive/2025/04/17/git-gone/) - Phil Haack
 - 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
+- 03.12.2024 [Self-guaranteeing promises](https://stephango.com/self-guarantee) - Steph Ango
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
 - 23.08.2024 [Scaling Sourcegraph’s managed multi-si...](https://bobheadxi.dev/multi-single-tenant/) - Robert Lin
+- 28.06.2024 [What can we remove?](https://stephango.com/remove) - Steph Ango
 - 01.06.2024 [A Commitment to Art and Dogs](/dogs/) - Sam Rose
 - 09.05.2024 [Kafka 101](https://highscalability.com/untitled-2/) - High Scalability
+- 09.05.2024 [Love is freedom](https://stephango.com/love) - Steph Ango
 - 07.04.2024 [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html) - Erik Bernhardsson
 - 26.03.2024 [Capturing A Billion Emo(j)i-ons](https://highscalability.com/capturing-a-billion-emo-j-i-ons/) - High Scalability
 - 14.03.2024 [Brief History of Scaling Uber](https://highscalability.com/brief-history-of-scaling-uber/) - High Scalability
