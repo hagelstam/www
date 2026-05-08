@@ -7,9 +7,11 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
+- 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
-- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
+- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 04.05.2026 [Democratizing Machine Learning at Netfli...](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss-c3aeaf49d8a4------2) - Netflix
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
@@ -28,7 +30,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.04.2026 [Predicting Risk in Content Launches: How...](https://netflixtechblog.medium.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss-c3aeaf49d8a4------2) - Netflix
 - 15.04.2026 [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) - DHH
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
-- 10.04.2026 [Keeping a Postgres queue healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy) - PlanetScale
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
 - 08.04.2026 [The golden rules of agent-first product ...](https://newsletter.posthog.com/p/the-golden-rules-of-agent-first-product) - PostHog
@@ -52,7 +53,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
-- 05.03.2026 [The Pulse: Cloudflare rewrites Next.js a...](https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/) - Gergely Orosz
 - 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
 - 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
