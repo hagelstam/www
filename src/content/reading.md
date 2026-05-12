@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 11.05.2026 [Data Projects: Managing Data Assets at N...](https://netflixtechblog.medium.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss-c3aeaf49d8a4------2) - Netflix
 - 08.05.2026 [Scaling ArchUnit with Nebula ArchRules](https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss-c3aeaf49d8a4------2) - Netflix
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
 - 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
@@ -27,7 +28,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.04.2026 [Great companies are built in hackathons](https://newsletter.posthog.com/p/great-companies-are-built-in-hackathons) - PostHog
 - 21.04.2026 [Celebrating computers at Omacon](https://world.hey.com/dhh/celebrating-computers-at-omacon-163eb568) - DHH
 - 21.04.2026 [Approaches to tenancy in Postgres](https://planetscale.com/blog/approaches-to-tenancy-in-postgres) - PlanetScale
-- 17.04.2026 [The Human Infrastructure: How Netflix Bu...](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss-c3aeaf49d8a4------2) - Netflix
 - 15.04.2026 [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) - DHH
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
