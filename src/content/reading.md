@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 12.05.2026 [TechPays has been acquired by Levels.fyi](https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/) - Gergely Orosz
 - 11.05.2026 [Data Projects: Managing Data Assets at N...](https://netflixtechblog.medium.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss-c3aeaf49d8a4------2) - Netflix
 - 08.05.2026 [Scaling ArchUnit with Nebula ArchRules](https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss-c3aeaf49d8a4------2) - Netflix
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
@@ -37,7 +38,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.04.2026 [Let’s Talk Agentic Development: Spotif...](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) - Spotify
 - 06.04.2026 [Panther Lake is the real deal](https://world.hey.com/dhh/panther-lake-is-the-real-deal-4bd731f1) - DHH
 - 03.04.2026 [The Pulse: is GitHub still best for AI-n...](https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/) - Gergely Orosz
-- 27.03.2026 [Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/) - Gergely Orosz
 - 25.03.2026 [Basecamp becomes agent accessible](https://world.hey.com/dhh/basecamp-becomes-agent-accessible-3ae6b949) - DHH
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
