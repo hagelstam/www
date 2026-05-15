@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 14.05.2026 [The Pulse: Did capacity shortages turn A...](https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/) - Gergely Orosz
+- 14.05.2026 [Egress problems and where to find them](https://planetscale.com/blog/database-egress) - PlanetScale
 - 12.05.2026 [TechPays has been acquired by Levels.fyi](https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/) - Gergely Orosz
 - 11.05.2026 [Data Projects: Managing Data Assets at N...](https://netflixtechblog.medium.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss-c3aeaf49d8a4------2) - Netflix
 - 08.05.2026 [Scaling ArchUnit with Nebula ArchRules](https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -28,7 +30,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.04.2026 [Background Coding Agents: Supercharging ...](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) - Spotify
 - 21.04.2026 [Great companies are built in hackathons](https://newsletter.posthog.com/p/great-companies-are-built-in-hackathons) - PostHog
 - 21.04.2026 [Celebrating computers at Omacon](https://world.hey.com/dhh/celebrating-computers-at-omacon-163eb568) - DHH
-- 21.04.2026 [Approaches to tenancy in Postgres](https://planetscale.com/blog/approaches-to-tenancy-in-postgres) - PlanetScale
 - 15.04.2026 [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) - DHH
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
@@ -37,7 +38,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.04.2026 [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) - Mitchell Hashimoto
 - 06.04.2026 [Let’s Talk Agentic Development: Spotif...](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) - Spotify
 - 06.04.2026 [Panther Lake is the real deal](https://world.hey.com/dhh/panther-lake-is-the-real-deal-4bd731f1) - DHH
-- 03.04.2026 [The Pulse: is GitHub still best for AI-n...](https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/) - Gergely Orosz
 - 25.03.2026 [Basecamp becomes agent accessible](https://world.hey.com/dhh/basecamp-becomes-agent-accessible-3ae6b949) - DHH
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
