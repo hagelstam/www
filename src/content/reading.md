@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 18.05.2026 [The Evolution of Cassandra Data Movement...](https://netflixtechblog.medium.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1?source=rss-c3aeaf49d8a4------2) - Netflix
+- 18.05.2026 [Better Experiments with LLM Evals — A ...](https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/) - Spotify
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
 - 14.05.2026 [The Pulse: Did capacity shortages turn A...](https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/) - Gergely Orosz
 - 14.05.2026 [Egress problems and where to find them](https://planetscale.com/blog/database-egress) - PlanetScale
@@ -16,8 +18,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
 - 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
-- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
+- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 04.05.2026 [Democratizing Machine Learning at Netfli...](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss-c3aeaf49d8a4------2) - Netflix
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
@@ -26,7 +28,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 30.04.2026 [The Pulse: token spend breaks budgets �...](https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/) - Gergely Orosz
 - 30.04.2026 [RLS sounds great until it isn't](https://planetscale.com/blog/rls-sounds-great-until-it-isnt) - PlanetScale
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
-- 24.04.2026 [Scaling Camera File Processing at Netfli...](https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss-c3aeaf49d8a4------2) - Netflix
 - 23.04.2026 [The Pulse: ‘Tokenmaxxing’ as a weird...](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) - Gergely Orosz
 - 22.04.2026 [Background Coding Agents: Supercharging ...](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) - Spotify
 - 21.04.2026 [Great companies are built in hackathons](https://newsletter.posthog.com/p/great-companies-are-built-in-hackathons) - PostHog
@@ -58,7 +59,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
-- 19.02.2026 [Our Multi-Agent Architecture for Smarter...](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) - Spotify
 - 18.02.2026 [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) - Julia Evans
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
 - 10.02.2026 [Go 1.26 is released](https://go.dev/blog/go1.26) - Go
