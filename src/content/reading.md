@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 20.05.2026 [Google Cloud deletes Australian trading ...](https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/) - Gergely Orosz
 - 18.05.2026 [The Evolution of Cassandra Data Movement...](https://netflixtechblog.medium.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1?source=rss-c3aeaf49d8a4------2) - Netflix
 - 18.05.2026 [Better Experiments with LLM Evals — A ...](https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/) - Spotify
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
@@ -18,8 +19,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
 - 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
-- 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
 - 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
+- 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
 - 04.05.2026 [Democratizing Machine Learning at Netfli...](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss-c3aeaf49d8a4------2) - Netflix
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
@@ -28,7 +29,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 30.04.2026 [The Pulse: token spend breaks budgets �...](https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/) - Gergely Orosz
 - 30.04.2026 [RLS sounds great until it isn't](https://planetscale.com/blog/rls-sounds-great-until-it-isnt) - PlanetScale
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
-- 23.04.2026 [The Pulse: ‘Tokenmaxxing’ as a weird...](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) - Gergely Orosz
 - 22.04.2026 [Background Coding Agents: Supercharging ...](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) - Spotify
 - 21.04.2026 [Great companies are built in hackathons](https://newsletter.posthog.com/p/great-companies-are-built-in-hackathons) - PostHog
 - 21.04.2026 [Celebrating computers at Omacon](https://world.hey.com/dhh/celebrating-computers-at-omacon-163eb568) - DHH
