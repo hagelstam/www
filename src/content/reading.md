@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 28.05.2026 [24 tips for giving S-tier demos](https://newsletter.posthog.com/p/how-to-demo) - PostHog
 - 26.05.2026 [Basecamp Five](https://world.hey.com/dhh/basecamp-five-8fcfd2ef) - DHH
 - 24.05.2026 [The Pulse: Forward deployed engineering ...](https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/) - Gergely Orosz
 - 21.05.2026 [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api) - Go
@@ -50,9 +51,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
-- 11.03.2026 [WTF does a product manager do? (and why ...](https://newsletter.posthog.com/p/an-engineers-guide-to-product-management) - PostHog
-- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
+- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
