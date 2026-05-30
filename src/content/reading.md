@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 29.05.2026 [From Silos to Service Topology: Why Netf...](https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss-c3aeaf49d8a4------2) - Netflix
 - 28.05.2026 [24 tips for giving S-tier demos](https://newsletter.posthog.com/p/how-to-demo) - PostHog
 - 26.05.2026 [Basecamp Five](https://world.hey.com/dhh/basecamp-five-8fcfd2ef) - DHH
 - 24.05.2026 [The Pulse: Forward deployed engineering ...](https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/) - Gergely Orosz
@@ -23,12 +24,11 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
 - 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
-- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
+- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 04.05.2026 [Democratizing Machine Learning at Netfli...](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss-c3aeaf49d8a4------2) - Netflix
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
-- 01.05.2026 [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741?source=rss-c3aeaf49d8a4------2) - Netflix
 - 01.05.2026 [Building a Natural Language Interface to...](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) - Spotify
 - 30.04.2026 [RLS sounds great until it isn't](https://planetscale.com/blog/rls-sounds-great-until-it-isnt) - PlanetScale
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
