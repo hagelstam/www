@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 03.06.2026 [A pond of interesting problems](https://world.hey.com/dhh/a-pond-of-interesting-problems-5f697567) - DHH
+- 03.06.2026 [Dynamically Splitting Wide Partitions in...](https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss-c3aeaf49d8a4------2) - Netflix
+- 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
 - 01.06.2026 [Let the agents democratize open source](https://world.hey.com/dhh/let-the-agents-democratize-open-source-9fd630a9) - DHH
 - 31.05.2026 [Typeface Specimens of Houston Mono™](https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/) - Faith Arslan
 - 29.05.2026 [From Silos to Service Topology: Why Netf...](https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -28,7 +31,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
 - 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
 - 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
-- 04.05.2026 [Democratizing Machine Learning at Netfli...](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss-c3aeaf49d8a4------2) - Netflix
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
 - 01.05.2026 [Building a Natural Language Interface to...](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) - Spotify
@@ -44,7 +46,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.04.2026 [The golden rules of agent-first product ...](https://newsletter.posthog.com/p/the-golden-rules-of-agent-first-product) - PostHog
 - 07.04.2026 [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) - Mitchell Hashimoto
 - 06.04.2026 [Let’s Talk Agentic Development: Spotif...](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) - Spotify
-- 06.04.2026 [Panther Lake is the real deal](https://world.hey.com/dhh/panther-lake-is-the-real-deal-4bd731f1) - DHH
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
@@ -53,8 +54,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 12.03.2026 [Inside the Archive: The Tech Behind Your...](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) - Spotify
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
-- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
+- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
@@ -79,7 +80,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 19.12.2025 [A Look at My Fountain Pens](https://arslan.io/2025/12/19/a-look-at-my-fountain-pens/) - Faith Arslan
 - 11.12.2025 [Litestream VFS](https://fly.io/blog/litestream-vfs/) - Fly
-- 04.12.2025 [Midori MD Notebooks](https://arslan.io/2025/12/04/midori-md-notebooks/) - Faith Arslan
 - 21.11.2025 [tree-me: Because git worktrees shouldn�...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 20.10.2025 [Use the saw, fear the saw](https://stephango.com/saw) - Steph Ango
