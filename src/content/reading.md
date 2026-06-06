@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 05.06.2026 [Thinking Fast & Slow for a Personalized ...](https://netflixtechblog.medium.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2) - Netflix
 - 03.06.2026 [Coding Is No Longer the Constraint: Scal...](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) - Spotify
 - 03.06.2026 [A pond of interesting problems](https://world.hey.com/dhh/a-pond-of-interesting-problems-5f697567) - DHH
 - 03.06.2026 [Dynamic Repartitioning for Time Series W...](https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -26,7 +27,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 14.05.2026 [Egress problems and where to find them](https://planetscale.com/blog/database-egress) - PlanetScale
 - 12.05.2026 [TechPays has been acquired by Levels.fyi](https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/) - Gergely Orosz
 - 11.05.2026 [Data Projects: Managing Data Assets at N...](https://netflixtechblog.medium.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss-c3aeaf49d8a4------2) - Netflix
-- 08.05.2026 [Scaling ArchUnit with Nebula ArchRules](https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss-c3aeaf49d8a4------2) - Netflix
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
 - 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
