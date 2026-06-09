@@ -7,6 +7,10 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 08.06.2026 [LLMs are picking winners. Here’s how t...](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how) - PostHog
+- 08.06.2026 [A Human-Augmenting Agentic Workflow for ...](https://netflixtechblog.medium.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss-c3aeaf49d8a4------2) - Netflix
+- 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
+- 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
 - 05.06.2026 [Thinking Fast & Slow for a Personalized ...](https://netflixtechblog.medium.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2) - Netflix
 - 03.06.2026 [Coding Is No Longer the Constraint: Scal...](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) - Spotify
 - 03.06.2026 [A pond of interesting problems](https://world.hey.com/dhh/a-pond-of-interesting-problems-5f697567) - DHH
@@ -26,7 +30,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 14.05.2026 [The Pulse: Did capacity shortages turn A...](https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/) - Gergely Orosz
 - 14.05.2026 [Egress problems and where to find them](https://planetscale.com/blog/database-egress) - PlanetScale
 - 12.05.2026 [TechPays has been acquired by Levels.fyi](https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/) - Gergely Orosz
-- 11.05.2026 [Data Projects: Managing Data Assets at N...](https://netflixtechblog.medium.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss-c3aeaf49d8a4------2) - Netflix
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
 - 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
@@ -48,14 +51,13 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.04.2026 [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) - Mitchell Hashimoto
 - 06.04.2026 [Let’s Talk Agentic Development: Spotif...](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) - Spotify
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
-- 24.03.2026 [What we wish we knew about building AI a...](https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building) - PostHog
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
@@ -66,8 +68,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
 - 05.02.2026 [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) - Mitchell Hashimoto
 - 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
-- 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
-- 28.01.2026 [Running an Engineering Papers Reading Gu...](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html) - Zalando
 - 21.01.2026 [Don't Trip[wire] Yourself: Testing Error...](https://mitchellh.com/writing/tripwire) - Mitchell Hashimoto
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
