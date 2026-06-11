@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 10.06.2026 [Encoding Your Domain Expert: The Context...](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) - Spotify
 - 08.06.2026 [LLMs are picking winners. Here’s how t...](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how) - PostHog
 - 08.06.2026 [A Human-Augmenting Agentic Workflow for ...](https://netflixtechblog.medium.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss-c3aeaf49d8a4------2) - Netflix
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
@@ -33,8 +34,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.05.2026 [The Pulse: AI load breaks GitHub – why...](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) - Gergely Orosz
 - 07.05.2026 [Problem solving with PlanetScale Insight...](https://planetscale.com/blog/problem-solving-with-insights) - PlanetScale
 - 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
-- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 05.05.2026 [Transparency in benchmarking](https://planetscale.com/blog/transparency-in-benchmarking) - PlanetScale
+- 05.05.2026 [On benchmarking](https://planetscale.com/blog/on-benchmarking) - PlanetScale
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
 - 01.05.2026 [Building a Natural Language Interface to...](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) - Spotify
@@ -49,7 +50,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
 - 08.04.2026 [The golden rules of agent-first product ...](https://newsletter.posthog.com/p/the-golden-rules-of-agent-first-product) - PostHog
 - 07.04.2026 [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) - Mitchell Hashimoto
-- 06.04.2026 [Let’s Talk Agentic Development: Spotif...](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) - Spotify
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
