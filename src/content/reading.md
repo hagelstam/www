@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 17.06.2026 [Why we're bullish on loops](https://newsletter.posthog.com/p/why-were-bullish-on-loops) - PostHog
+- 17.06.2026 [The Rape of Britain](https://world.hey.com/dhh/the-rape-of-britain-610412f8) - DHH
+- 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
 - 16.06.2026 [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes) - PlanetScale
 - 15.06.2026 [See what your database is doing right no...](https://planetscale.com/blog/see-what-your-database-is-doing-right-now) - PlanetScale
@@ -45,11 +48,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.04.2026 [Background Coding Agents: Supercharging ...](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) - Spotify
 - 21.04.2026 [Great companies are built in hackathons](https://newsletter.posthog.com/p/great-companies-are-built-in-hackathons) - PostHog
 - 21.04.2026 [Celebrating computers at Omacon](https://world.hey.com/dhh/celebrating-computers-at-omacon-163eb568) - DHH
-- 15.04.2026 [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) - DHH
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
-- 08.04.2026 [The golden rules of agent-first product ...](https://newsletter.posthog.com/p/the-golden-rules-of-agent-first-product) - PostHog
 - 07.04.2026 [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) - Mitchell Hashimoto
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
@@ -94,7 +95,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
 - 17.04.2025 [Cleaning up gone branches](https://haacked.com/archive/2025/04/17/git-gone/) - Phil Haack
-- 12.02.2025 [How to run Firecracker without KVM on cl...](https://blog.alexellis.io/how-to-run-firecracker-without-kvm-on-regular-cloud-vms/) - Alex Ellis
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
 - 03.12.2024 [Self-guaranteeing promises](https://stephango.com/self-guarantee) - Steph Ango
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
