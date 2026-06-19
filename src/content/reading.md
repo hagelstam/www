@@ -19,6 +19,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.06.2026 [Encoding Your Domain Expert: The Context...](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) - Spotify
 - 08.06.2026 [LLMs are picking winners. Hereâ€™s how t...](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how) - PostHog
 - 08.06.2026 [A Human-Augmenting Agentic Workflow for ...](https://netflixtechblog.medium.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss-c3aeaf49d8a4------2) - Netflix
+- 08.06.2026 [Building Agents that Don't Break Themsel...](https://fly.io/blog/building-agents-that-dont-break-themselves/) - Fly
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
 - 05.06.2026 [Thinking Fast & Slow for a Personalized ...](https://netflixtechblog.medium.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -58,8 +59,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 03.03.2026 [Why We Ditched Flink Table API Joins: Cu...](https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html) - Zalando
@@ -80,7 +81,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
 - 26.12.2025 [Books I Read in 2025](https://arslan.io/2025/12/26/books-i-read-in-2025/) - Faith Arslan
 - 23.12.2025 [2025](/2025/) - Sam Rose
-- 11.12.2025 [Litestream VFS](https://fly.io/blog/litestream-vfs/) - Fly
 - 21.11.2025 [tree-me: Because git worktrees shouldnâ€...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 20.10.2025 [Use the saw, fear the saw](https://stephango.com/saw) - Steph Ango
