@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 29.06.2026 [GenPage: Towards End-to-End Generative H...](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss-c3aeaf49d8a4------2) - Netflix
 - 28.06.2026 [Pollen tried to remove my article about ...](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) - Gergely Orosz
 - 25.06.2026 [One Postgres cluster, many apps](https://planetscale.com/blog/one-postgres-cluster-many-apps) - PlanetScale
 - 24.06.2026 [We used context engineering to 5x conver...](https://newsletter.posthog.com/p/we-used-ai-to-5x-conversion-and-2x) - PostHog
@@ -33,7 +34,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.06.2026 [Building Agents that Don't Break Themsel...](https://fly.io/blog/building-agents-that-dont-break-themselves/) - Fly
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
-- 05.06.2026 [Thinking Fast & Slow for a Personalized ...](https://netflixtechblog.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2) - Netflix
 - 03.06.2026 [Coding Is No Longer the Constraint: Scal...](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) - Spotify
 - 03.06.2026 [A pond of interesting problems](https://world.hey.com/dhh/a-pond-of-interesting-problems-5f697567) - DHH
 - 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
@@ -62,8 +62,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
-- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
+- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
