@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
+- 09.07.2026 [The Pulse: Interesting AI coding stats f...](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - Gergely Orosz
 - 08.07.2026 [Deadlocks and downtime](https://planetscale.com/blog/deadlocks-and-downtime) - PlanetScale
 - 02.07.2026 [The Pulse: a new trend, smart model rout...](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/) - Gergely Orosz
 - 29.06.2026 [GenPage: Towards End-to-End Generative H...](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss-c3aeaf49d8a4------2) - Netflix
@@ -28,7 +30,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.06.2026 [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes) - PlanetScale
 - 15.06.2026 [See what your database is doing right no...](https://planetscale.com/blog/see-what-your-database-is-doing-right-now) - PlanetScale
 - 11.06.2026 [The Pulse: a trend of trying to cut back...](https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/) - Gergely Orosz
-- 11.06.2026 [The Pulse: Antigravity 2.0 takes ‘IDE�...](https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/) - Gergely Orosz
 - 11.06.2026 [The only scalable delete in Postgres is ...](https://planetscale.com/blog/the-only-scalable-delete) - PlanetScale
 - 10.06.2026 [Encoding Your Domain Expert: The Context...](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) - Spotify
 - 08.06.2026 [LLMs are picking winners. Here’s how t...](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how) - PostHog
@@ -46,7 +47,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.05.2026 [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api) - Go
 - 18.05.2026 [Better Experiments with LLM Evals — A ...](https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/) - Spotify
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
-- 06.05.2026 [The stuff nobody tells you about startup...](https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about) - PostHog
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
 - 01.05.2026 [Building a Natural Language Interface to...](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) - Spotify
@@ -61,9 +61,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
-- 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
+- 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
