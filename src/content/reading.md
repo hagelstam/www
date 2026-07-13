@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 12.07.2026 [The will to power will return](https://world.hey.com/dhh/the-will-to-power-will-return-58ffb9dc) - DHH
 - 11.07.2026 [But Y](https://world.hey.com/dhh/but-y-2c04e16a) - DHH
 - 10.07.2026 [Measuring the Impact of Personalized Rec...](https://netflixtechblog.medium.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
@@ -41,7 +42,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 03.06.2026 [Coding Is No Longer the Constraint: Scal...](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) - Spotify
 - 03.06.2026 [A pond of interesting problems](https://world.hey.com/dhh/a-pond-of-interesting-problems-5f697567) - DHH
 - 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
-- 01.06.2026 [Let the agents democratize open source](https://world.hey.com/dhh/let-the-agents-democratize-open-source-9fd630a9) - DHH
 - 31.05.2026 [Typeface Specimens of Houston Mono™](https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/) - Faith Arslan
 - 28.05.2026 [24 tips for giving S-tier demos](https://newsletter.posthog.com/p/how-to-demo) - PostHog
 - 21.05.2026 [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api) - Go
@@ -61,9 +61,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
-- 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
+- 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
