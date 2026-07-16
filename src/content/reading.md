@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 15.07.2026 [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) - PlanetScale
 - 14.07.2026 [Dell is on a roll with the XPS](https://world.hey.com/dhh/dell-is-on-a-roll-with-the-xps-5a09a84e) - DHH
 - 13.07.2026 [Building Service Topology at Scale: Arch...](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss-c3aeaf49d8a4------2) - Netflix
 - 13.07.2026 [Product for Engineers is now build mode](https://newsletter.posthog.com/p/product-for-engineers-is-now-build) - PostHog
@@ -34,7 +35,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
 - 16.06.2026 [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes) - PlanetScale
-- 15.06.2026 [See what your database is doing right no...](https://planetscale.com/blog/see-what-your-database-is-doing-right-now) - PlanetScale
 - 11.06.2026 [The Pulse: a trend of trying to cut back...](https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/) - Gergely Orosz
 - 10.06.2026 [Encoding Your Domain Expert: The Context...](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) - Spotify
 - 08.06.2026 [LLMs are picking winners. Here’s how t...](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how) - PostHog
