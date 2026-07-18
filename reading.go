@@ -42,8 +42,6 @@ func main() {
 		{URL: "https://arslan.io/rss", Name: "Faith Arslan"},
 		{URL: "https://stephango.com/feed.xml", Name: "Steph Ango"},
 
-
-		{URL: "https://netflixtechblog.medium.com/feed", Name: "Netflix"},
 		{URL: "https://engineering.atspotify.com/feed", Name: "Spotify"},
 		{URL: "https://engineering.zalando.com/atom.xml", Name: "Zalando"},
 		{URL: "https://engineering.zalando.com/atom.xml", Name: "Zalando"},

@@ -7,28 +7,23 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
-- 17.07.2026 [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss-c3aeaf49d8a4------2) - Netflix
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
 - 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
 - 16.07.2026 [The Pulse: What can we learn from Bun’...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - Gergely Orosz
 - 15.07.2026 [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) - PlanetScale
 - 14.07.2026 [Dell is on a roll with the XPS](https://world.hey.com/dhh/dell-is-on-a-roll-with-the-xps-5a09a84e) - DHH
-- 13.07.2026 [Building Service Topology at Scale: Arch...](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss-c3aeaf49d8a4------2) - Netflix
 - 13.07.2026 [Product for Engineers is now build mode](https://newsletter.posthog.com/p/product-for-engineers-is-now-build) - PostHog
 - 13.07.2026 [When the Postgres query planner goes rog...](https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue) - PlanetScale
 - 12.07.2026 [The will to power will return](https://world.hey.com/dhh/the-will-to-power-will-return-58ffb9dc) - DHH
 - 11.07.2026 [But Y](https://world.hey.com/dhh/but-y-2c04e16a) - DHH
-- 10.07.2026 [Measuring the Impact of Personalized Rec...](https://netflixtechblog.medium.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss-c3aeaf49d8a4------2) - Netflix
 - 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
 - 09.07.2026 [The Pulse: Interesting AI coding stats f...](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - Gergely Orosz
 - 08.07.2026 [Deadlocks and downtime](https://planetscale.com/blog/deadlocks-and-downtime) - PlanetScale
 - 02.07.2026 [The Pulse: a new trend, smart model rout...](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/) - Gergely Orosz
-- 29.06.2026 [GenPage: Towards End-to-End Generative H...](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss-c3aeaf49d8a4------2) - Netflix
 - 28.06.2026 [Pollen tried to remove my article about ...](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) - Gergely Orosz
 - 25.06.2026 [One Postgres cluster, many apps](https://planetscale.com/blog/one-postgres-cluster-many-apps) - PlanetScale
 - 24.06.2026 [We used context engineering to 5x conver...](https://newsletter.posthog.com/p/we-used-ai-to-5x-conversion-and-2x) - PostHog
 - 23.06.2026 [Reliability fail: No automated zone fail...](https://blog.pragmaticengineer.com/coinbase-fail/) - Gergely Orosz
-- 23.06.2026 [Toward More Controllable AI Video Editin...](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss-c3aeaf49d8a4------2) - Netflix
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
@@ -62,9 +57,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
