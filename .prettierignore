@@ -4,3 +4,5 @@
 dist/
 node_modules/
 src/content/
+pnpm-lock.yaml
+pnpm-workspace.yaml
