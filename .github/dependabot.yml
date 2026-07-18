@@ -12,15 +12,15 @@ updates:
         patterns:
           - '*'
 
-  - package-ecosystem: 'bun'
+  - package-ecosystem: 'npm'
     directory: '/'
     schedule:
       interval: 'weekly'
     labels:
       - 'dependencies'
-      - 'bun'
+      - 'npm'
     groups:
-      bun:
+      npm:
         patterns:
           - '*'
 
