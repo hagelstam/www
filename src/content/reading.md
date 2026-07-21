@@ -7,6 +7,10 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
+- 20.07.2026 [Content Ingestion & Podcast Video Incide...](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) - Spotify
+- 20.07.2026 [Every UPDATE Leaves a Ghost: MVCC, Bloat...](https://planetscale.com/blog/postgresql-mvcc) - PlanetScale
+- 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
 - 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
 - 16.07.2026 [The Pulse: What can we learn from Bun’...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - Gergely Orosz
@@ -31,9 +35,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 17.06.2026 [Why we're bullish on loops](https://newsletter.posthog.com/p/why-were-bullish-on-loops) - PostHog
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
-- 16.06.2026 [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes) - PlanetScale
 - 10.06.2026 [Encoding Your Domain Expert: The Context...](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) - Spotify
-- 08.06.2026 [LLMs are picking winners. Here’s how t...](https://newsletter.posthog.com/p/llms-are-picking-winners-heres-how) - PostHog
 - 08.06.2026 [Building Agents that Don't Break Themsel...](https://fly.io/blog/building-agents-that-dont-break-themselves/) - Fly
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
@@ -47,7 +49,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
 - 01.05.2026 [Building a Natural Language Interface to...](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) - Spotify
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
-- 22.04.2026 [Background Coding Agents: Supercharging ...](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) - Spotify
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
@@ -57,9 +58,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
@@ -89,7 +90,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 31.07.2025 [If you're remote, ramble](https://stephango.com/ramblings) - Steph Ango
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
-- 17.04.2025 [Cleaning up gone branches](https://haacked.com/archive/2025/04/17/git-gone/) - Phil Haack
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
 - 03.12.2024 [Self-guaranteeing promises](https://stephango.com/self-guarantee) - Steph Ango
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
