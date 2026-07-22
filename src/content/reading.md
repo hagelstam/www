@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 21.07.2026 [Wolves, sheep, and gypsies](https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a) - DHH
+- 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
 - 20.07.2026 [Content Ingestion & Podcast Video Incide...](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) - Spotify
 - 20.07.2026 [Every UPDATE Leaves a Ghost: MVCC, Bloat...](https://planetscale.com/blog/postgresql-mvcc) - PlanetScale
@@ -31,7 +33,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
-- 19.06.2026 [European Delusions & Danish Drones](https://world.hey.com/dhh/european-delusions-danish-drones-a3da0d27) - DHH
 - 17.06.2026 [Why we're bullish on loops](https://newsletter.posthog.com/p/why-were-bullish-on-loops) - PostHog
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
@@ -59,7 +60,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
-- 10.03.2026 [Examples for the tcpdump and dig man pag...](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - Julia Evans
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
 - 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
