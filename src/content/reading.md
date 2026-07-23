@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
 - 21.07.2026 [Wolves, sheep, and gypsies](https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a) - DHH
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
@@ -66,7 +67,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
-- 05.02.2026 [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) - Mitchell Hashimoto
 - 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
