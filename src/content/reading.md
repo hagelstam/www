@@ -7,6 +7,10 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 24.07.2026 [Postgres backups under the hood](https://planetscale.com/blog/postgres-backups-under-the-hood) - PlanetScale
+- 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
+- 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
+- 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
 - 23.07.2026 [The Pulse: New trend - concern about mas...](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/) - Gergely Orosz
 - 23.07.2026 [What's new in Postgres 19](https://planetscale.com/blog/whats-new-in-postgres-19) - PlanetScale
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
@@ -14,8 +18,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
 - 20.07.2026 [Content Ingestion & Podcast Video Incide...](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) - Spotify
-- 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 20.07.2026 [Every UPDATE Leaves a Ghost: MVCC, Bloat...](https://planetscale.com/blog/postgresql-mvcc) - PlanetScale
+- 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
 - 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
 - 16.07.2026 [The Pulse: What can we learn from Bun’...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - Gergely Orosz
@@ -27,7 +31,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 11.07.2026 [But Y](https://world.hey.com/dhh/but-y-2c04e16a) - DHH
 - 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
 - 09.07.2026 [The Pulse: Interesting AI coding stats f...](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - Gergely Orosz
-- 08.07.2026 [Deadlocks and downtime](https://planetscale.com/blog/deadlocks-and-downtime) - PlanetScale
 - 02.07.2026 [The Pulse: a new trend, smart model rout...](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/) - Gergely Orosz
 - 28.06.2026 [Pollen tried to remove my article about ...](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) - Gergely Orosz
 - 24.06.2026 [We used context engineering to 5x conver...](https://newsletter.posthog.com/p/we-used-ai-to-5x-conversion-and-2x) - PostHog
@@ -60,10 +63,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
-- 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
-- 08.03.2026 [Migrating jackson-datatype-money to Fast...](https://engineering.zalando.com/posts/2026/03/jackson-money-migration-zalando-style.html) - Zalando
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
@@ -73,7 +74,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 14.01.2026 [The Design & Implementation of Sprites](https://fly.io/blog/design-and-implementation/) - Fly
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
-- 09.01.2026 [Code And Let Live](https://fly.io/blog/code-and-let-live/) - Fly
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
 - 26.12.2025 [Books I Read in 2025](https://arslan.io/2025/12/26/books-i-read-in-2025/) - Faith Arslan
 - 23.12.2025 [2025](/2025/) - Sam Rose
