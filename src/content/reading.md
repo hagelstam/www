@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 27.07.2026 [Indexing the Data Lake for Online Point ...](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) - Spotify
+- 27.07.2026 [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy) - PostHog
+- 27.07.2026 [I'm sorry, Dave](https://world.hey.com/dhh/i-m-sorry-dave-380ec27d) - DHH
 - 26.07.2026 [Sitting down with Senra](https://world.hey.com/dhh/sitting-down-with-senra-69f5e368) - DHH
 - 24.07.2026 [Postgres backups under the hood](https://planetscale.com/blog/postgres-backups-under-the-hood) - PlanetScale
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
@@ -28,7 +31,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 14.07.2026 [Dell is on a roll with the XPS](https://world.hey.com/dhh/dell-is-on-a-roll-with-the-xps-5a09a84e) - DHH
 - 13.07.2026 [Product for Engineers is now build mode](https://newsletter.posthog.com/p/product-for-engineers-is-now-build) - PostHog
 - 13.07.2026 [When the Postgres query planner goes rog...](https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue) - PlanetScale
-- 12.07.2026 [The will to power will return](https://world.hey.com/dhh/the-will-to-power-will-return-58ffb9dc) - DHH
 - 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
 - 09.07.2026 [The Pulse: Interesting AI coding stats f...](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - Gergely Orosz
 - 02.07.2026 [The Pulse: a new trend, smart model rout...](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/) - Gergely Orosz
@@ -37,7 +39,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
-- 17.06.2026 [Why we're bullish on loops](https://newsletter.posthog.com/p/why-were-bullish-on-loops) - PostHog
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
 - 10.06.2026 [Encoding Your Domain Expert: The Context...](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) - Spotify
@@ -52,7 +53,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
-- 01.05.2026 [Building a Natural Language Interface to...](https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/) - Spotify
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
