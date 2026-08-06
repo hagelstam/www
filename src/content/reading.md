@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 05.08.2026 [The Pulse: Bending Spoons' Acquisition S...](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - Gergely Orosz
 - 03.08.2026 [What nobody tells you about writing agen...](https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing) - PostHog
 - 31.07.2026 [Massively parallel Postgres backups](https://planetscale.com/blog/massively-parallel-postgres-backups) - PlanetScale
 - 30.07.2026 [The Pulse: Quitting Spotify Podcasts ove...](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - Gergely Orosz
@@ -26,8 +27,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
 - 20.07.2026 [Content Ingestion & Podcast Video Incide...](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) - Spotify
-- 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 20.07.2026 [Every UPDATE Leaves a Ghost: MVCC, Bloat...](https://planetscale.com/blog/postgresql-mvcc) - PlanetScale
+- 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
 - 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
 - 16.07.2026 [The Pulse: What can we learn from Bun’...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - Gergely Orosz
@@ -36,7 +37,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 13.07.2026 [Product for Engineers is now build mode](https://newsletter.posthog.com/p/product-for-engineers-is-now-build) - PostHog
 - 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
 - 09.07.2026 [The Pulse: Interesting AI coding stats f...](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - Gergely Orosz
-- 02.07.2026 [The Pulse: a new trend, smart model rout...](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/) - Gergely Orosz
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
