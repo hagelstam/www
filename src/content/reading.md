@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 07.08.2026 [Concurrency vs. Throughput: why more par...](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql) - PlanetScale
 - 05.08.2026 [The Pulse: Bending Spoons' Acquisition S...](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - Gergely Orosz
 - 03.08.2026 [What nobody tells you about writing agen...](https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing) - PostHog
 - 31.07.2026 [Massively parallel Postgres backups](https://planetscale.com/blog/massively-parallel-postgres-backups) - PlanetScale
@@ -16,8 +17,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 27.07.2026 [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy) - PostHog
 - 27.07.2026 [I'm sorry, Dave](https://world.hey.com/dhh/i-m-sorry-dave-380ec27d) - DHH
 - 26.07.2026 [Sitting down with Senra](https://world.hey.com/dhh/sitting-down-with-senra-69f5e368) - DHH
-- 24.07.2026 [Postgres backups under the hood](https://planetscale.com/blog/postgres-backups-under-the-hood) - PlanetScale
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
+- 24.07.2026 [Postgres backups under the hood](https://planetscale.com/blog/postgres-backups-under-the-hood) - PlanetScale
 - 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
 - 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
 - 23.07.2026 [The Pulse: New trend - concern about mas...](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/) - Gergely Orosz
@@ -27,12 +28,11 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
 - 20.07.2026 [Content Ingestion & Podcast Video Incide...](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) - Spotify
-- 20.07.2026 [Every UPDATE Leaves a Ghost: MVCC, Bloat...](https://planetscale.com/blog/postgresql-mvcc) - PlanetScale
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
+- 20.07.2026 [Every UPDATE Leaves a Ghost: MVCC, Bloat...](https://planetscale.com/blog/postgresql-mvcc) - PlanetScale
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
 - 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
 - 16.07.2026 [The Pulse: What can we learn from Bun’...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - Gergely Orosz
-- 15.07.2026 [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1) - PlanetScale
 - 14.07.2026 [Dell is on a roll with the XPS](https://world.hey.com/dhh/dell-is-on-a-roll-with-the-xps-5a09a84e) - DHH
 - 13.07.2026 [Product for Engineers is now build mode](https://newsletter.posthog.com/p/product-for-engineers-is-now-build) - PostHog
 - 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
@@ -63,8 +63,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
-- 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
+- 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
@@ -79,6 +79,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.12.2025 [2025](/2025/) - Sam Rose
 - 21.11.2025 [tree-me: Because git worktrees shouldn�...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
+- 20.10.2025 [Use the saw, fear the saw](https://stephango.com/saw) - Steph Ango
 - 29.09.2025 [Spelungit: When `git log –grep` isn’...](https://haacked.com/archive/2025/09/29/announcing-spelungit/) - Phil Haack
 - 21.09.2025 [From single-tenant to multi-tenant](https://bobheadxi.dev/multi-tenant/) - Robert Lin
 - 20.09.2025 [Building and operating online services a...](https://bobheadxi.dev/managed-services-platform/) - Robert Lin
@@ -86,13 +87,17 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 15.08.2025 [The 90s UNIX Utility That Fell Out of Fa...](https://blog.alexellis.io/the-90s-unix-command-fell-out-of-favour/) - Alex Ellis
+- 31.07.2025 [If you're remote, ramble](https://stephango.com/ramblings) - Steph Ango
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
 - 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
+- 03.12.2024 [Self-guaranteeing promises](https://stephango.com/self-guarantee) - Steph Ango
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
 - 23.08.2024 [Scaling Sourcegraph’s managed multi-si...](https://bobheadxi.dev/multi-single-tenant/) - Robert Lin
+- 28.06.2024 [What can we remove?](https://stephango.com/remove) - Steph Ango
 - 01.06.2024 [A Commitment to Art and Dogs](/dogs/) - Sam Rose
 - 09.05.2024 [Kafka 101](https://highscalability.com/untitled-2/) - High Scalability
+- 09.05.2024 [Love is freedom](https://stephango.com/love) - Steph Ango
 - 07.04.2024 [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html) - Erik Bernhardsson
 - 26.03.2024 [Capturing A Billion Emo(j)i-ons](https://highscalability.com/capturing-a-billion-emo-j-i-ons/) - High Scalability
 - 14.03.2024 [Brief History of Scaling Uber](https://highscalability.com/brief-history-of-scaling-uber/) - High Scalability
