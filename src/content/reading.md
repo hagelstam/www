@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 09.08.2026 [Endless execution](https://world.hey.com/dhh/endless-execution-4157e065) - DHH
 - 07.08.2026 [Concurrency vs. Throughput: why more par...](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql) - PlanetScale
 - 05.08.2026 [The Pulse: Bending Spoons' Acquisition S...](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - Gergely Orosz
 - 03.08.2026 [What nobody tells you about writing agen...](https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing) - PostHog
@@ -25,15 +26,12 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.07.2026 [What's new in Postgres 19](https://planetscale.com/blog/whats-new-in-postgres-19) - PlanetScale
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
 - 21.07.2026 [Wolves, sheep, and gypsies](https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a) - DHH
-- 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
 - 20.07.2026 [Content Ingestion & Podcast Video Incide...](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) - Spotify
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 20.07.2026 [Every UPDATE Leaves a Ghost: MVCC, Bloat...](https://planetscale.com/blog/postgresql-mvcc) - PlanetScale
-- 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
 - 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
 - 16.07.2026 [The Pulse: What can we learn from Bun’...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - Gergely Orosz
-- 14.07.2026 [Dell is on a roll with the XPS](https://world.hey.com/dhh/dell-is-on-a-roll-with-the-xps-5a09a84e) - DHH
 - 13.07.2026 [Product for Engineers is now build mode](https://newsletter.posthog.com/p/product-for-engineers-is-now-build) - PostHog
 - 09.07.2026 [Stop being the code review bottleneck](https://newsletter.posthog.com/p/code-review-tips) - PostHog
 - 09.07.2026 [The Pulse: Interesting AI coding stats f...](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - Gergely Orosz
@@ -51,9 +49,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 31.05.2026 [Typeface Specimens of Houston Mono™](https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/) - Faith Arslan
 - 21.05.2026 [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api) - Go
 - 18.05.2026 [Better Experiments with LLM Evals — A ...](https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/) - Spotify
-- 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
-- 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
-- 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
@@ -63,8 +58,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
 - 16.03.2026 [Search Quality Assurance with AI as a Ju...](https://engineering.zalando.com/posts/2026/03/search-quality-assurance-with-llm-judge.html) - Zalando
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 17.02.2026 [Using go fix to modernize Go code](https://go.dev/blog/gofix) - Go
