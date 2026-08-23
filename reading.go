@@ -44,7 +44,6 @@ func main() {
 
 		{URL: "https://engineering.atspotify.com/feed", Name: "Spotify"},
 		{URL: "https://engineering.zalando.com/atom.xml", Name: "Zalando"},
-		{URL: "https://engineering.zalando.com/atom.xml", Name: "Zalando"},
 		{URL: "https://planetscale.com/blog/feed.atom", Name: "PlanetScale"},
 		{URL: "https://fly.io/blog/feed.xml", Name: "Fly"},
 		{URL: "https://go.dev/blog/feed.atom", Name: "Go"},
