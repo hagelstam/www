@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 24.08.2026 [The history of Postgres sharding](https://planetscale.com/blog/the-history-of-postgres-sharding) - PlanetScale
 - 20.08.2026 [The Pulse: Meta’s self-inflicted resig...](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - Gergely Orosz
 - 19.08.2026 [The Pulse: Grok’s CLI caught uploading...](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/) - Gergely Orosz
 - 19.08.2026 [Go 1.27 is released](https://go.dev/blog/go1.27) - Go
@@ -22,7 +23,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.08.2026 [Concurrency vs. Throughput: why more par...](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql) - PlanetScale
 - 05.08.2026 [The Pulse: Bending Spoons' Acquisition S...](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - Gergely Orosz
 - 03.08.2026 [What nobody tells you about writing agen...](https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing) - PostHog
-- 31.07.2026 [Massively parallel Postgres backups](https://planetscale.com/blog/massively-parallel-postgres-backups) - PlanetScale
 - 30.07.2026 [The Pulse: Quitting Spotify Podcasts ove...](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - Gergely Orosz
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
 - 27.07.2026 [Indexing the Data Lake for Online Point ...](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) - Spotify
