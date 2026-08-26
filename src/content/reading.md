@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
+- 25.08.2026 [Problems with large tables in Postgres](https://planetscale.com/blog/dealing-with-large-tables-in-postgres) - PlanetScale
 - 24.08.2026 [The history of Postgres sharding](https://planetscale.com/blog/the-history-of-postgres-sharding) - PlanetScale
 - 20.08.2026 [The Pulse: Meta’s self-inflicted resig...](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - Gergely Orosz
 - 19.08.2026 [The Pulse: Grok’s CLI caught uploading...](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/) - Gergely Orosz
@@ -20,7 +22,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 11.08.2026 [The dangers of Postgres subtransactions](https://planetscale.com/blog/the-dangers-of-postgres-subtransactions) - PlanetScale
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 09.08.2026 [Endless execution](https://world.hey.com/dhh/endless-execution-4157e065) - DHH
-- 07.08.2026 [Concurrency vs. Throughput: why more par...](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql) - PlanetScale
 - 05.08.2026 [The Pulse: Bending Spoons' Acquisition S...](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - Gergely Orosz
 - 03.08.2026 [What nobody tells you about writing agen...](https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing) - PostHog
 - 30.07.2026 [The Pulse: Quitting Spotify Podcasts ove...](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - Gergely Orosz
@@ -35,7 +36,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
 - 21.07.2026 [Wolves, sheep, and gypsies](https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a) - DHH
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
-- 20.07.2026 [2030-shaped software](https://newsletter.posthog.com/p/2030-shaped-software) - PostHog
 - 20.07.2026 [Content Ingestion & Podcast Video Incide...](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/) - Spotify
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
