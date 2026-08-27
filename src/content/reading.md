@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 27.08.2026 [Why you're not getting a response to you...](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/) - Gergely Orosz
+- 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
 - 25.08.2026 [Problems with large tables in Postgres](https://planetscale.com/blog/dealing-with-large-tables-in-postgres) - PlanetScale
 - 24.08.2026 [The history of Postgres sharding](https://planetscale.com/blog/the-history-of-postgres-sharding) - PlanetScale
@@ -32,7 +34,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 26.07.2026 [Sitting down with Senra](https://world.hey.com/dhh/sitting-down-with-senra-69f5e368) - DHH
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
 - 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
-- 23.07.2026 [The Pulse: New trend - concern about mas...](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/) - Gergely Orosz
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
 - 21.07.2026 [Wolves, sheep, and gypsies](https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a) - DHH
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
@@ -60,9 +61,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 10.03.2026 [//go:fix inline and the source-level inl...](https://go.dev/blog/inliner) - Go
-- 27.02.2026 [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) - Go
+- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
