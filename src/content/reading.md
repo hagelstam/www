@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 27.08.2026 [The Pulse: We need to talk about migrati...](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/) - Gergely Orosz
 - 27.08.2026 [Why you're not getting a response to you...](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/) - Gergely Orosz
 - 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
@@ -26,7 +27,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 09.08.2026 [Endless execution](https://world.hey.com/dhh/endless-execution-4157e065) - DHH
 - 05.08.2026 [The Pulse: Bending Spoons' Acquisition S...](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - Gergely Orosz
 - 03.08.2026 [What nobody tells you about writing agen...](https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing) - PostHog
-- 30.07.2026 [The Pulse: Quitting Spotify Podcasts ove...](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - Gergely Orosz
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
 - 27.07.2026 [Indexing the Data Lake for Online Point ...](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) - Spotify
 - 27.07.2026 [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy) - PostHog
