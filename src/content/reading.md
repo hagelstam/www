@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 01.09.2026 [How software engineering is changing: an...](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) - Gergely Orosz
+- 01.09.2026 [What is a Neki router?](https://planetscale.com/blog/what-is-a-neki-router) - PlanetScale
+- 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
 - 31.08.2026 [How one connection kills a database](https://planetscale.com/blog/debugging-live-database-connections) - PlanetScale
 - 27.08.2026 [The Pulse: We need to talk about migrati...](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/) - Gergely Orosz
@@ -20,13 +23,11 @@ This page is automatically updated every night with the latest posts from blogs 
 - 19.08.2026 [Go 1.27 is released](https://go.dev/blog/go1.27) - Go
 - 18.08.2026 [This post will save you tokens](https://newsletter.posthog.com/p/this-post-will-save-you-tokens) - PostHog
 - 18.08.2026 [Poisoned Postgres connection pools](https://planetscale.com/blog/postgres-poisoned-connection-pools) - PlanetScale
-- 17.08.2026 [What is a data topology?](https://planetscale.com/blog/what-is-a-data-topology) - PlanetScale
 - 13.08.2026 [Agentic Engineering at Zalando: a snapsh...](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html) - Zalando
 - 13.08.2026 [When Can LLMs Replace Humans in A/B Test...](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) - Spotify
 - 11.08.2026 [Can software factories actually work?](https://newsletter.posthog.com/p/software-factories) - PostHog
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 09.08.2026 [Endless execution](https://world.hey.com/dhh/endless-execution-4157e065) - DHH
-- 05.08.2026 [The Pulse: Bending Spoons' Acquisition S...](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - Gergely Orosz
 - 03.08.2026 [What nobody tells you about writing agen...](https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing) - PostHog
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
 - 27.07.2026 [Indexing the Data Lake for Online Point ...](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) - Spotify
@@ -57,7 +58,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
-- 08.04.2026 [Rejecting Invalid Ingress Routes at Appl...](https://engineering.zalando.com/posts/2026/04/skipper-validating-admission-webhook.html) - Zalando
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
