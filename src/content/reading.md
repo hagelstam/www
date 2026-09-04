@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 03.09.2026 [The Pulse: Meta wanted to reduce teams b...](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - Gergely Orosz
+- 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
+- 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
 - 02.09.2026 [Goroutine Leak Profiles](https://go.dev/blog/goroutine-leak-profiles) - Go
 - 01.09.2026 [How software engineering is changing: an...](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) - Gergely Orosz
 - 01.09.2026 [What is a Neki router?](https://planetscale.com/blog/what-is-a-neki-router) - PlanetScale
@@ -20,7 +23,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 25.08.2026 [Problems with large tables in Postgres](https://planetscale.com/blog/dealing-with-large-tables-in-postgres) - PlanetScale
 - 24.08.2026 [The history of Postgres sharding](https://planetscale.com/blog/the-history-of-postgres-sharding) - PlanetScale
 - 20.08.2026 [The Pulse: Meta’s self-inflicted resig...](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - Gergely Orosz
-- 19.08.2026 [The Pulse: Grok’s CLI caught uploading...](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/) - Gergely Orosz
 - 19.08.2026 [Go 1.27 is released](https://go.dev/blog/go1.27) - Go
 - 18.08.2026 [This post will save you tokens](https://newsletter.posthog.com/p/this-post-will-save-you-tokens) - PostHog
 - 18.08.2026 [Poisoned Postgres connection pools](https://planetscale.com/blog/postgres-poisoned-connection-pools) - PlanetScale
@@ -50,7 +52,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.06.2026 [Encoding Your Domain Expert: The Context...](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/) - Spotify
 - 08.06.2026 [Building Agents that Don't Break Themsel...](https://fly.io/blog/building-agents-that-dont-break-themselves/) - Fly
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
-- 03.06.2026 [Coding Is No Longer the Constraint: Scal...](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/) - Spotify
 - 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
 - 31.05.2026 [Typeface Specimens of Houston Mono™](https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/) - Faith Arslan
 - 21.05.2026 [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api) - Go
@@ -62,7 +63,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 19.03.2026 [Nakaya Aka-Tame Fountain Pen](https://arslan.io/2026/03/19/nakaya-aka-tame-fountain-pen/) - Faith Arslan
-- 10.03.2026 [Unfortunately, Sprites Now Speak MCP](https://fly.io/blog/unfortunately-mcp/) - Fly
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
