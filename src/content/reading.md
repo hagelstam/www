@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 10.09.2026 [The Pulse: tech companies move to open A...](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - Gergely Orosz
+- 10.09.2026 [Introducing Neki](https://planetscale.com/blog/introducing-neki) - PlanetScale
+- 10.09.2026 [The lifecycle of a sharded Postgres quer...](https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query) - PlanetScale
 - 08.09.2026 [Why Spotify Is Not Using Bayesian A/B Te...](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) - Spotify
 - 03.09.2026 [The Pulse: Meta wanted to reduce teams b...](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - Gergely Orosz
 - 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
@@ -22,11 +25,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
 - 25.08.2026 [Problems with large tables in Postgres](https://planetscale.com/blog/dealing-with-large-tables-in-postgres) - PlanetScale
-- 24.08.2026 [The history of Postgres sharding](https://planetscale.com/blog/the-history-of-postgres-sharding) - PlanetScale
-- 20.08.2026 [The Pulse: Meta’s self-inflicted resig...](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - Gergely Orosz
 - 19.08.2026 [Go 1.27 is released](https://go.dev/blog/go1.27) - Go
 - 18.08.2026 [This post will save you tokens](https://newsletter.posthog.com/p/this-post-will-save-you-tokens) - PostHog
-- 18.08.2026 [Poisoned Postgres connection pools](https://planetscale.com/blog/postgres-poisoned-connection-pools) - PlanetScale
 - 13.08.2026 [Agentic Engineering at Zalando: a snapsh...](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html) - Zalando
 - 13.08.2026 [When Can LLMs Replace Humans in A/B Test...](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) - Spotify
 - 11.08.2026 [Can software factories actually work?](https://newsletter.posthog.com/p/software-factories) - PostHog
