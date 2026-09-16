@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 14.09.2026 [What happens to engineers when AI writes...](https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left) - PostHog
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
 - 11.09.2026 [118 million queries per second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) - PlanetScale
@@ -81,7 +82,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 30.08.2025 [Preview: Slice Up Bare-Metal with Slicer](https://blog.alexellis.io/slicer-bare-metal-preview/) - Alex Ellis
 - 23.08.2025 [Big O](/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
-- 15.08.2025 [The 90s UNIX Utility That Fell Out of Fa...](https://blog.alexellis.io/the-90s-unix-command-fell-out-of-favour/) - Alex Ellis
 - 31.07.2025 [If you're remote, ramble](https://stephango.com/ramblings) - Steph Ango
 - 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
