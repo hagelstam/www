@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 16.09.2026 [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) - Go
+- 16.09.2026 [Introducing TIN: full-text search for Po...](https://planetscale.com/blog/introducing-tin) - PlanetScale
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 14.09.2026 [What happens to engineers when AI writes...](https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left) - PostHog
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
@@ -23,7 +25,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 01.09.2026 [What is a Neki router?](https://planetscale.com/blog/what-is-a-neki-router) - PlanetScale
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
-- 31.08.2026 [How one connection kills a database](https://planetscale.com/blog/debugging-live-database-connections) - PlanetScale
 - 27.08.2026 [The Pulse: We need to talk about migrati...](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/) - Gergely Orosz
 - 27.08.2026 [Why you're not getting a response to you...](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/) - Gergely Orosz
 - 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
@@ -63,7 +64,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
-- 24.03.2026 [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection) - Go
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
