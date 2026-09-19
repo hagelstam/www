@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 18.09.2026 [The architecture of Neki](https://planetscale.com/blog/the-architecture-of-neki) - PlanetScale
 - 17.09.2026 [Introducing Lead: TIN-compatible full-te...](https://planetscale.com/blog/introducing-lead) - PlanetScale
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 16.09.2026 [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) - Go
@@ -17,7 +18,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 11.09.2026 [118 million queries per second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) - PlanetScale
 - 10.09.2026 [The Pulse: tech companies move to open A...](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - Gergely Orosz
 - 10.09.2026 [Introducing Neki](https://planetscale.com/blog/introducing-neki) - PlanetScale
-- 10.09.2026 [The lifecycle of a sharded Postgres quer...](https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query) - PlanetScale
 - 08.09.2026 [Why Spotify Is Not Using Bayesian A/B Te...](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) - Spotify
 - 03.09.2026 [The Pulse: Meta wanted to reduce teams b...](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - Gergely Orosz
 - 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
