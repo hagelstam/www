@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 18.09.2026 [The architecture of Neki](https://planetscale.com/blog/the-architecture-of-neki) - PlanetScale
 - 17.09.2026 [Introducing Lead: TIN-compatible full-te...](https://planetscale.com/blog/introducing-lead) - PlanetScale
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
@@ -106,4 +107,3 @@ This page is automatically updated every night with the latest posts from blogs 
 - 15.09.2020 [The context in which we build software](http://thorstenball.com/blog/2020/09/15/the-context-in-which-we-build-software/) - Thorsten Ball
 - 08.09.2020 [How can you not be romantic about progra...](http://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) - Thorsten Ball
 - 01.09.2020 [No, typing can be the bottleneck](http://thorstenball.com/blog/2020/09/01/typing-can-be-the-bottleneck/) - Thorsten Ball
-- 25.08.2020 [But does it help you ship?](http://thorstenball.com/blog/2020/08/25/but-does-it-help-you-ship/) - Thorsten Ball
