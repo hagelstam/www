@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 21.09.2026 [Blocking cutovers to save replication sl...](https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover) - PlanetScale
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 18.09.2026 [The architecture of Neki](https://planetscale.com/blog/the-architecture-of-neki) - PlanetScale
 - 17.09.2026 [Introducing Lead: TIN-compatible full-te...](https://planetscale.com/blog/introducing-lead) - PlanetScale
@@ -18,7 +19,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
 - 11.09.2026 [118 million queries per second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) - PlanetScale
 - 10.09.2026 [The Pulse: tech companies move to open A...](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - Gergely Orosz
-- 10.09.2026 [Introducing Neki](https://planetscale.com/blog/introducing-neki) - PlanetScale
 - 08.09.2026 [Why Spotify Is Not Using Bayesian A/B Te...](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) - Spotify
 - 03.09.2026 [The Pulse: Meta wanted to reduce teams b...](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - Gergely Orosz
 - 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
