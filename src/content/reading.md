@@ -7,13 +7,13 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 23.09.2026 [TIN Postgres search is faster, better, a...](https://planetscale.com/blog/searching-hn-with-tin) - PlanetScale
 - 22.09.2026 [Anatomy of a (Postgres) search engine](https://planetscale.com/blog/anatomy-of-a-postgres-search-engine) - PlanetScale
 - 21.09.2026 [Blocking cutovers to save replication sl...](https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover) - PlanetScale
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 18.09.2026 [The architecture of Neki](https://planetscale.com/blog/the-architecture-of-neki) - PlanetScale
 - 17.09.2026 [Introducing Lead: TIN-compatible full-te...](https://planetscale.com/blog/introducing-lead) - PlanetScale
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
-- 16.09.2026 [Introducing TIN: full-text search for Po...](https://planetscale.com/blog/introducing-tin) - PlanetScale
 - 16.09.2026 [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) - Go
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 14.09.2026 [What happens to engineers when AI writes...](https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left) - PostHog
