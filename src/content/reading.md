@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 24.09.2026 [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - Gergely Orosz
+- 24.09.2026 [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) - Go
 - 23.09.2026 [TIN Postgres search is faster, better, a...](https://planetscale.com/blog/searching-hn-with-tin) - PlanetScale
 - 22.09.2026 [Anatomy of a (Postgres) search engine](https://planetscale.com/blog/anatomy-of-a-postgres-search-engine) - PlanetScale
 - 21.09.2026 [Blocking cutovers to save replication sl...](https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover) - PlanetScale
@@ -28,7 +30,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
 - 27.08.2026 [The Pulse: We need to talk about migrati...](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/) - Gergely Orosz
-- 27.08.2026 [Why you're not getting a response to you...](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/) - Gergely Orosz
 - 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
 - 19.08.2026 [Go 1.27 is released](https://go.dev/blog/go1.27) - Go
@@ -58,7 +59,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.06.2026 [Introducing Lightstep UQL to PromQL Tran...](https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html) - Zalando
 - 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
 - 31.05.2026 [Typeface Specimens of Houston Mono™](https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/) - Faith Arslan
-- 21.05.2026 [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api) - Go
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 02.05.2026 [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) - Julia Evans
