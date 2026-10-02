@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 01.10.2026 [The Pulse: RoR creator sparks new “dea...](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - Gergely Orosz
+- 01.10.2026 [Designing Neki for performance](https://planetscale.com/blog/designing-neki-for-performance) - PlanetScale
 - 28.09.2026 [We're building multiplayer AI. Here's wh...](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) - PostHog
 - 28.09.2026 [Handling hot shards](https://planetscale.com/blog/hot-shards-hotter-tenants) - PlanetScale
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
@@ -16,7 +18,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 24.09.2026 [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) - Go
 - 23.09.2026 [TIN Postgres search is faster, better, a...](https://planetscale.com/blog/searching-hn-with-tin) - PlanetScale
 - 22.09.2026 [Anatomy of a (Postgres) search engine](https://planetscale.com/blog/anatomy-of-a-postgres-search-engine) - PlanetScale
-- 21.09.2026 [Blocking cutovers to save replication sl...](https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover) - PlanetScale
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 16.09.2026 [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) - Go
@@ -32,7 +33,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 01.09.2026 [How software engineering is changing: an...](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) - Gergely Orosz
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
-- 27.08.2026 [The Pulse: We need to talk about migrati...](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/) - Gergely Orosz
 - 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
 - 19.08.2026 [Go 1.27 is released](https://go.dev/blog/go1.27) - Go
