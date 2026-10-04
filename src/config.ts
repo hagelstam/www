@@ -3,8 +3,7 @@ export const config = {
     name: 'Maximilian Hagelstam',
     url: 'https://maximilianhagelstam.com',
     title: 'Maximilian Hagelstam',
-    description:
-      'Platform Engineer based in Finland. Building great developer experiences.',
+    description: 'Software Engineer based in Finland',
     author: 'Maximilian Hagelstam',
     image: '/og.jpg',
     locale: 'en_US',
