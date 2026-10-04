@@ -44,26 +44,24 @@ try {
   </div>
 
   <div class="mt-8 space-y-6">
-    {
-      articles.map((article) => (
-        <div class="flex items-baseline gap-8">
-          <time class="min-w-25 text-sm text-neutral-400">
-            {formatDate(article.date)}
-          </time>
-          <div>
-            <a
-              href={article.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="text-neutral-200 transition-all hover:text-neutral-400"
-            >
-              {article.title}
-            </a>
-            <span class="ml-2 text-neutral-400">- {article.blogName}</span>
-          </div>
+    {articles.map((article) => (
+      <div class="flex items-baseline gap-8">
+        <time class="min-w-25 text-sm text-neutral-400">
+          {formatDate(article.date)}
+        </time>
+        <div>
+          <a
+            href={article.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-neutral-200 transition-all hover:text-neutral-400"
+          >
+            {article.title}
+          </a>
+          <span class="ml-2 text-neutral-400">- {article.blogName}</span>
         </div>
-      ))
-    }
+      </div>
+    ))}
   </div>
 
   <div class="mt-12 border-t border-neutral-800 pt-6">

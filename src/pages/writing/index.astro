@@ -13,20 +13,18 @@ const sortedPosts = posts.sort(
 
 <Layout title={`Writing | ${config.site.title}`} header="Writing">
   <div class="space-y-6">
-    {
-      sortedPosts.map((post) => (
-        <div class="flex items-baseline gap-8">
-          <time class="min-w-25 text-sm text-neutral-400">
-            {formatDate(post.data.date)}
-          </time>
-          <a
-            href={`/writing/${post.id}`}
-            class="text-neutral-200 transition-all hover:text-neutral-400"
-          >
-            {post.data.title}
-          </a>
-        </div>
-      ))
-    }
+    {sortedPosts.map((post) => (
+      <div class="flex items-baseline gap-8">
+        <time class="min-w-25 text-sm text-neutral-400">
+          {formatDate(post.data.date)}
+        </time>
+        <a
+          href={`/writing/${post.id}`}
+          class="text-neutral-200 transition-all hover:text-neutral-400"
+        >
+          {post.data.title}
+        </a>
+      </div>
+    ))}
   </div>
 </Layout>
