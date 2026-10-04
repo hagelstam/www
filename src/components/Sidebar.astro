@@ -19,30 +19,28 @@ if (pathname.endsWith('/') && pathname !== '/') {
       id="nav"
     >
       <div class="mt-2 mb-2 flex flex-row space-x-0 pr-10 md:mt-0 md:flex-col">
-        {
-          Object.entries(navItems).map(([path, { name }]) => {
-            const isActive =
-              path === '/' ? pathname === '/' : pathname.startsWith(path)
-            return (
-              <a
-                href={path}
+        {Object.entries(navItems).map(([path, { name }]) => {
+          const isActive =
+            path === '/' ? pathname === '/' : pathname.startsWith(path)
+          return (
+            <a
+              href={path}
+              class:list={[
+                'flex align-middle transition-all hover:text-neutral-200',
+                isActive ? 'font-bold' : 'text-neutral-400',
+              ]}
+            >
+              <span
                 class:list={[
-                  'flex align-middle transition-all hover:text-neutral-200',
-                  isActive ? 'font-bold' : 'text-neutral-400',
+                  'relative px-2.5 py-1.25',
+                  isActive && 'rounded-md bg-neutral-800',
                 ]}
               >
-                <span
-                  class:list={[
-                    'relative px-2.5 py-1.25',
-                    isActive && 'rounded-md bg-neutral-800',
-                  ]}
-                >
-                  {name}
-                </span>
-              </a>
-            )
-          })
-        }
+                {name}
+              </span>
+            </a>
+          )
+        })}
       </div>
     </nav>
   </div>
