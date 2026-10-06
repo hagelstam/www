@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 06.10.2026 [Over my dead pencil](https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647) - DHH
+- 05.10.2026 [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/) - Faith Arslan
+- 05.10.2026 [What on earth are you dooming about?](https://world.hey.com/dhh/what-on-earth-are-you-dooming-about-386cc1da) - DHH
 - 02.10.2026 [Arch-specific SIMD in Go](https://go.dev/blog/archsimd) - Go
 - 01.10.2026 [The Pulse: RoR creator sparks new “dea...](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - Gergely Orosz
 - 01.10.2026 [Designing Neki for performance](https://planetscale.com/blog/designing-neki-for-performance) - PlanetScale
@@ -48,18 +51,15 @@ This page is automatically updated every night with the latest posts from blogs 
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
 - 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
-- 21.07.2026 [Wolves, sheep, and gypsies](https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a) - DHH
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
-- 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
 - 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
 - 08.06.2026 [Building Agents that Don't Break Themsel...](https://fly.io/blog/building-agents-that-dont-break-themselves/) - Fly
 - 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
-- 31.05.2026 [Typeface Specimens of Houston Mono™](https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/) - Faith Arslan
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
