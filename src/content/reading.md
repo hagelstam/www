@@ -7,10 +7,12 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 07.10.2026 [Thundering herd of circuit breakers](https://engineering.zalando.com/posts/2026/10/thundering-herd-of-circuit-breakers.html) - Zalando
 - 07.10.2026 [Redundancy is the engine of progress](https://world.hey.com/dhh/redundancy-is-the-engine-of-progress-76499402) - DHH
+- 07.10.2026 [What today's software owes to Bronze Age...](https://planetscale.com/blog/leaky-buckets-in-software-explained) - PlanetScale
 - 06.10.2026 [Over my dead pencil](https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647) - DHH
-- 06.10.2026 [A Terminal Protocol for Program Status (...](https://mitchellh.com/writing/program-status-osc7501) - Mitchell Hashimoto
 - 06.10.2026 [Introducing Dedicated Read Replicas for ...](https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas) - PlanetScale
+- 06.10.2026 [A Terminal Protocol for Program Status (...](https://mitchellh.com/writing/program-status-osc7501) - Mitchell Hashimoto
 - 05.10.2026 [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/) - Faith Arslan
 - 05.10.2026 [What on earth are you dooming about?](https://world.hey.com/dhh/what-on-earth-are-you-dooming-about-386cc1da) - DHH
 - 02.10.2026 [Arch-specific SIMD in Go](https://go.dev/blog/archsimd) - Go
@@ -23,7 +25,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
 - 24.09.2026 [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - Gergely Orosz
 - 24.09.2026 [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) - Go
-- 23.09.2026 [TIN Postgres search is faster, better, a...](https://planetscale.com/blog/searching-hn-with-tin) - PlanetScale
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 16.09.2026 [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) - Go
@@ -55,7 +56,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
-- 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
