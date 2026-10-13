@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
+- 12.10.2026 [What gets TOASTed in Postgres](https://planetscale.com/blog/what-gets-toasted-in-postgres) - PlanetScale
+- 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
 - 08.10.2026 [The Pulse: Firebase’s global outage & ...](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - Gergely Orosz
 - 08.10.2026 [Introducing: Spotify Technology. Proven ...](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/) - Spotify
 - 08.10.2026 [TIN v1.0.6: 2-3x faster, with support fo...](https://planetscale.com/blog/tin-v106) - PlanetScale
@@ -22,7 +25,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 01.10.2026 [The Pulse: RoR creator sparks new “dea...](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - Gergely Orosz
 - 01.10.2026 [Designing Neki for performance](https://planetscale.com/blog/designing-neki-for-performance) - PlanetScale
 - 28.09.2026 [We're building multiplayer AI. Here's wh...](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) - PostHog
-- 28.09.2026 [Handling hot shards](https://planetscale.com/blog/hot-shards-hotter-tenants) - PlanetScale
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
 - 24.09.2026 [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - Gergely Orosz
@@ -43,7 +45,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
 - 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
-- 18.08.2026 [This post will save you tokens](https://newsletter.posthog.com/p/this-post-will-save-you-tokens) - PostHog
 - 13.08.2026 [Agentic Engineering at Zalando: a snapsh...](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html) - Zalando
 - 13.08.2026 [When Can LLMs Replace Humans in A/B Test...](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) - Spotify
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
@@ -51,7 +52,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
 - 27.07.2026 [I'm sorry, Dave](https://world.hey.com/dhh/i-m-sorry-dave-380ec27d) - DHH
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
-- 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
