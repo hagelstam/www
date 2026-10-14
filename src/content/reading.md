@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 13.10.2026 [PlanetScale is now available on Azure](https://planetscale.com/blog/planetscale-is-now-on-azure) - PlanetScale
 - 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
 - 12.10.2026 [What gets TOASTed in Postgres](https://planetscale.com/blog/what-gets-toasted-in-postgres) - PlanetScale
 - 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
@@ -23,7 +24,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 05.10.2026 [What on earth are you dooming about?](https://world.hey.com/dhh/what-on-earth-are-you-dooming-about-386cc1da) - DHH
 - 02.10.2026 [Arch-specific SIMD in Go](https://go.dev/blog/archsimd) - Go
 - 01.10.2026 [The Pulse: RoR creator sparks new “dea...](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - Gergely Orosz
-- 01.10.2026 [Designing Neki for performance](https://planetscale.com/blog/designing-neki-for-performance) - PlanetScale
 - 28.09.2026 [We're building multiplayer AI. Here's wh...](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) - PostHog
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
