@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 14.10.2026 [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse) - Go
+- 14.10.2026 [Sequences and other volatiles in Neki](https://planetscale.com/blog/neki-volatile-expressions) - PlanetScale
 - 13.10.2026 [PlanetScale is now available on Azure](https://planetscale.com/blog/planetscale-is-now-on-azure) - PlanetScale
 - 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
 - 12.10.2026 [What gets TOASTed in Postgres](https://planetscale.com/blog/what-gets-toasted-in-postgres) - PlanetScale
@@ -18,7 +20,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 07.10.2026 [Redundancy is the engine of progress](https://world.hey.com/dhh/redundancy-is-the-engine-of-progress-76499402) - DHH
 - 07.10.2026 [What today's software owes to Bronze Age...](https://planetscale.com/blog/leaky-buckets-in-software-explained) - PlanetScale
 - 06.10.2026 [Over my dead pencil](https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647) - DHH
-- 06.10.2026 [Introducing Dedicated Read Replicas for ...](https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas) - PlanetScale
 - 06.10.2026 [A Terminal Protocol for Program Status (...](https://mitchellh.com/writing/program-status-osc7501) - Mitchell Hashimoto
 - 05.10.2026 [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/) - Faith Arslan
 - 05.10.2026 [What on earth are you dooming about?](https://world.hey.com/dhh/what-on-earth-are-you-dooming-about-386cc1da) - DHH
@@ -43,7 +44,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 02.09.2026 [Goroutine Leak Profiles](https://go.dev/blog/goroutine-leak-profiles) - Go
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
-- 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
 - 13.08.2026 [Agentic Engineering at Zalando: a snapsh...](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html) - Zalando
 - 13.08.2026 [When Can LLMs Replace Humans in A/B Test...](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) - Spotify
