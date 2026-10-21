@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 20.10.2026 [Neki update: $50 Metal, read-only replic...](https://planetscale.com/blog/neki-updates-and-preparing-for-production) - PlanetScale
 - 16.10.2026 [Advancing Generative Recommendation Infe...](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/) - Spotify
 - 16.10.2026 [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring) - Go
 - 15.10.2026 [The Pulse: new trend of building “inte...](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - Gergely Orosz
@@ -21,7 +22,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 08.10.2026 [TIN v1.0.6: 2-3x faster, with support fo...](https://planetscale.com/blog/tin-v106) - PlanetScale
 - 07.10.2026 [Thundering herd of circuit breakers](https://engineering.zalando.com/posts/2026/10/thundering-herd-of-circuit-breakers.html) - Zalando
 - 07.10.2026 [Redundancy is the engine of progress](https://world.hey.com/dhh/redundancy-is-the-engine-of-progress-76499402) - DHH
-- 07.10.2026 [What today's software owes to Bronze Age...](https://planetscale.com/blog/leaky-buckets-in-software-explained) - PlanetScale
 - 06.10.2026 [Over my dead pencil](https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647) - DHH
 - 06.10.2026 [A Terminal Protocol for Program Status (...](https://mitchellh.com/writing/program-status-osc7501) - Mitchell Hashimoto
 - 05.10.2026 [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/) - Faith Arslan
