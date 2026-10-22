@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
+- 21.10.2026 [Help set Go's priorities for next year](https://go.dev/blog/survey2026-announce) - Go
 - 20.10.2026 [Neki update: $50 Metal, read-only replic...](https://planetscale.com/blog/neki-updates-and-preparing-for-production) - PlanetScale
 - 16.10.2026 [Advancing Generative Recommendation Infe...](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/) - Spotify
 - 16.10.2026 [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring) - Go
@@ -19,7 +21,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
 - 08.10.2026 [The Pulse: Firebase’s global outage & ...](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - Gergely Orosz
 - 08.10.2026 [Introducing: Spotify Technology. Proven ...](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/) - Spotify
-- 08.10.2026 [TIN v1.0.6: 2-3x faster, with support fo...](https://planetscale.com/blog/tin-v106) - PlanetScale
 - 07.10.2026 [Thundering herd of circuit breakers](https://engineering.zalando.com/posts/2026/10/thundering-herd-of-circuit-breakers.html) - Zalando
 - 07.10.2026 [Redundancy is the engine of progress](https://world.hey.com/dhh/redundancy-is-the-engine-of-progress-76499402) - DHH
 - 06.10.2026 [Over my dead pencil](https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647) - DHH
@@ -35,7 +36,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 24.09.2026 [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) - Go
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
-- 16.09.2026 [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) - Go
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 14.09.2026 [What happens to engineers when AI writes...](https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left) - PostHog
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
