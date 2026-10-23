@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
+- 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
 - 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
 - 21.10.2026 [Help set Go's priorities for next year](https://go.dev/blog/survey2026-announce) - Go
 - 20.10.2026 [Neki update: $50 Metal, read-only replic...](https://planetscale.com/blog/neki-updates-and-preparing-for-production) - PlanetScale
@@ -39,7 +41,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 14.09.2026 [What happens to engineers when AI writes...](https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left) - PostHog
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
-- 10.09.2026 [The Pulse: tech companies move to open A...](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - Gergely Orosz
 - 08.09.2026 [Why Spotify Is Not Using Bayesian A/B Te...](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) - Spotify
 - 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
 - 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
@@ -69,7 +70,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
-- 14.01.2026 [The Design & Implementation of Sprites](https://fly.io/blog/design-and-implementation/) - Fly
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
