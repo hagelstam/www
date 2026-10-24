@@ -1,4 +1,6 @@
 allowBuilds:
   esbuild: true
+minimumReleaseAge: 1440
 minimumReleaseAgeExclude:
-  - astro@7.1.1
+  - '@astrojs/*'
+  - prettier-plugin-astro@1.1.2

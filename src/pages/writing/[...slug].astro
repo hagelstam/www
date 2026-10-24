@@ -1,5 +1,6 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content'
+import { Image } from 'astro:assets'
 import Layout from '@/layouts/Layout.astro'
 import { formatDate } from '@/utils/date'
 
@@ -18,14 +19,33 @@ const { Content } = await render(post)
 
 <Layout
   title={post.data.title}
+  {...(post.data.description ? { description: post.data.description } : {})}
   type="article"
   header={post.data.title}
   publishedDate={post.data.date}
 >
-  <p class="text-md -mt-4 mb-8 text-neutral-400">
+  <time
+    datetime={post.data.date.toISOString()}
+    class="-mt-4 mb-8 block text-neutral-400"
+  >
     {formatDate(post.data.date)}
-  </p>
-  <article class="prose prose-neutral prose-invert text-neutral-200">
+  </time>
+  <article
+    aria-label={post.data.title}
+    class="prose prose-neutral prose-invert max-w-none text-neutral-200"
+  >
+    {post.data.cover && (
+      <figure class="setup-screenshot">
+        <Image
+          src={post.data.cover.src}
+          alt={post.data.cover.alt}
+          width={480}
+          layout="constrained"
+          sizes="(min-width: 528px) 480px, calc(100vw - 48px)"
+          priority
+        />
+      </figure>
+    )}
     <Content />
   </article>
 </Layout>

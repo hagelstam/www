@@ -24,7 +24,7 @@ try {
   while ((match = regex.exec(content)) !== null) {
     const [day, month, year] = match[1]!.split('.')
     articles.push({
-      date: new Date(Number(year), Number(month) - 1, Number(day)),
+      date: new Date(Date.UTC(Number(year), Number(month) - 1, Number(day))),
       title: match[2]!,
       link: match[3]!,
       blogName: match[4]!,
@@ -35,7 +35,11 @@ try {
 }
 ---
 
-<Layout title={`Reading list | ${config.site.title}`} header="Reading list">
+<Layout
+  title={`Reading list | ${config.site.title}`}
+  description="The latest articles from the logs I follow, updated every night."
+  header="Reading list"
+>
   <div class="prose prose-neutral prose-invert -mt-3 text-neutral-200">
     <p>
       This page is auto-generated from a GitHub Actions workflow that runs every
@@ -43,33 +47,36 @@ try {
     </p>
   </div>
 
-  <div class="mt-8 space-y-6">
+  <ul class="mt-8 space-y-6" role="list">
     {articles.map((article) => (
-      <div class="flex items-baseline gap-8">
-        <time class="min-w-25 text-sm text-neutral-400">
+      <li class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:gap-8">
+        <time
+          datetime={article.date.toISOString().slice(0, 10)}
+          class="min-w-25 shrink-0 text-sm text-neutral-400"
+        >
           {formatDate(article.date)}
         </time>
-        <div>
+        <div class="min-w-0 wrap-anywhere">
           <a
             href={article.link}
             target="_blank"
             rel="noopener noreferrer"
-            class="text-neutral-200 transition-all hover:text-neutral-400"
+            class="text-neutral-200 transition-colors hover:text-neutral-400"
           >
             {article.title}
           </a>
           <span class="ml-2 text-neutral-400">- {article.blogName}</span>
         </div>
-      </div>
+      </li>
     ))}
-  </div>
+  </ul>
 
   <div class="mt-12 border-t border-neutral-800 pt-6">
     <a
       href="https://github.com/hagelstam/www/blob/main/reading.go"
       target="_blank"
       rel="noopener noreferrer"
-      class="inline-flex items-center text-neutral-400 transition-all hover:text-neutral-200"
+      class="inline-flex min-h-11 items-center text-neutral-400 transition-colors hover:text-neutral-200"
     >
       <Icon name="arrow" />
       <span class="ml-1">view source code</span>
