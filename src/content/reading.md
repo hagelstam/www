@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 23.10.2026 [Shard design doesn't start from your tab...](https://planetscale.com/blog/shard-groups-the-unit-of-co-location) - PlanetScale
+- 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
 - 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
 - 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
 - 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
@@ -19,7 +21,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 14.10.2026 [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse) - Go
 - 13.10.2026 [PlanetScale is now available on Azure](https://planetscale.com/blog/planetscale-is-now-on-azure) - PlanetScale
 - 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
-- 12.10.2026 [What gets TOASTed in Postgres](https://planetscale.com/blog/what-gets-toasted-in-postgres) - PlanetScale
 - 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
 - 08.10.2026 [The Pulse: Firebase’s global outage & ...](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - Gergely Orosz
 - 08.10.2026 [Introducing: Spotify Technology. Proven ...](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/) - Spotify
@@ -67,7 +68,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
-- 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
