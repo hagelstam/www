@@ -7,91 +7,91 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
-- 23.10.2026 [Shard design doesn't start from your tab...](https://planetscale.com/blog/shard-groups-the-unit-of-co-location) - PlanetScale
-- 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
-- 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
-- 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
-- 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
-- 21.10.2026 [Help set Go's priorities for next year](https://go.dev/blog/survey2026-announce) - Go
-- 20.10.2026 [Neki update: $50 Metal, read-only replic...](https://planetscale.com/blog/neki-updates-and-preparing-for-production) - PlanetScale
-- 16.10.2026 [Advancing Generative Recommendation Infe...](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/) - Spotify
-- 16.10.2026 [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring) - Go
-- 15.10.2026 [The Pulse: new trend of building “inte...](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - Gergely Orosz
-- 14.10.2026 [Sequences and other volatiles in Neki](https://planetscale.com/blog/neki-volatile-expressions) - PlanetScale
-- 14.10.2026 [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse) - Go
-- 13.10.2026 [PlanetScale is now available on Azure](https://planetscale.com/blog/planetscale-is-now-on-azure) - PlanetScale
-- 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
-- 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
-- 08.10.2026 [The Pulse: Firebase’s global outage & ...](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - Gergely Orosz
-- 08.10.2026 [Introducing: Spotify Technology. Proven ...](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/) - Spotify
-- 07.10.2026 [Thundering herd of circuit breakers](https://engineering.zalando.com/posts/2026/10/thundering-herd-of-circuit-breakers.html) - Zalando
-- 07.10.2026 [Redundancy is the engine of progress](https://world.hey.com/dhh/redundancy-is-the-engine-of-progress-76499402) - DHH
-- 06.10.2026 [Over my dead pencil](https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647) - DHH
-- 06.10.2026 [A Terminal Protocol for Program Status (...](https://mitchellh.com/writing/program-status-osc7501) - Mitchell Hashimoto
-- 05.10.2026 [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/) - Faith Arslan
-- 05.10.2026 [What on earth are you dooming about?](https://world.hey.com/dhh/what-on-earth-are-you-dooming-about-386cc1da) - DHH
 - 02.10.2026 [Arch-specific SIMD in Go](https://go.dev/blog/archsimd) - Go
 - 01.10.2026 [The Pulse: RoR creator sparks new “dea...](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - Gergely Orosz
+- 01.10.2026 [Designing Neki for performance](https://planetscale.com/blog/designing-neki-for-performance) - PlanetScale
 - 28.09.2026 [We're building multiplayer AI. Here's wh...](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) - PostHog
+- 28.09.2026 [Handling hot shards](https://planetscale.com/blog/hot-shards-hotter-tenants) - PlanetScale
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
+- 25.09.2026 [When to choose x86-64 vs aarch64](https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64) - PlanetScale
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
 - 24.09.2026 [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - Gergely Orosz
 - 24.09.2026 [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) - Go
+- 23.09.2026 [TIN Postgres search is faster, better, a...](https://planetscale.com/blog/searching-hn-with-tin) - PlanetScale
+- 22.09.2026 [Anatomy of a (Postgres) search engine](https://planetscale.com/blog/anatomy-of-a-postgres-search-engine) - PlanetScale
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
+- 16.09.2026 [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) - Go
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 14.09.2026 [What happens to engineers when AI writes...](https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left) - PostHog
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
+- 10.09.2026 [The Pulse: tech companies move to open A...](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - Gergely Orosz
 - 08.09.2026 [Why Spotify Is Not Using Bayesian A/B Te...](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) - Spotify
+- 03.09.2026 [The Pulse: Meta wanted to reduce teams b...](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - Gergely Orosz
 - 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
 - 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
+- 02.09.2026 [Goroutine Leak Profiles](https://go.dev/blog/goroutine-leak-profiles) - Go
+- 01.09.2026 [How software engineering is changing: an...](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) - Gergely Orosz
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
+- 26.08.2026 [Generic Methods](https://go.dev/blog/generic-methods) - Go
 - 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
+- 18.08.2026 [This post will save you tokens](https://newsletter.posthog.com/p/this-post-will-save-you-tokens) - PostHog
 - 13.08.2026 [Agentic Engineering at Zalando: a snapsh...](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html) - Zalando
+- 13.08.2026 [When Can LLMs Replace Humans in A/B Test...](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/) - Spotify
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 09.08.2026 [Endless execution](https://world.hey.com/dhh/endless-execution-4157e065) - DHH
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
+- 27.07.2026 [Indexing the Data Lake for Online Point ...](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/) - Spotify
 - 27.07.2026 [I'm sorry, Dave](https://world.hey.com/dhh/i-m-sorry-dave-380ec27d) - DHH
+- 26.07.2026 [Sitting down with Senra](https://world.hey.com/dhh/sitting-down-with-senra-69f5e368) - DHH
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
+- 23.07.2026 [From Homegrown to Flink: Migrating a Sta...](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - Zalando
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
+- 21.07.2026 [Wolves, sheep, and gypsies](https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a) - DHH
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
 - 17.07.2026 [Learning a few things about running SQLi...](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) - Julia Evans
+- 16.07.2026 [Three sacred cows that must die so Europ...](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) - DHH
+- 22.06.2026 [Client-Side Load Balancing at a Million ...](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html) - Zalando
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
 - 08.06.2026 [Building Agents that Don't Break Themsel...](https://fly.io/blog/building-agents-that-dont-break-themselves/) - Fly
 - 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
+- 31.05.2026 [Typeface Specimens of Houston Mono™](https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/) - Faith Arslan
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
+- 15.04.2026 [Simdutf Can Now Be Used Without libc++ o...](https://mitchellh.com/writing/simdutf-no-libcxx) - Mitchell Hashimoto
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
+- 29.01.2026 [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/) - Fly
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
+- 14.01.2026 [The Design & Implementation of Sprites](https://fly.io/blog/design-and-implementation/) - Fly
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
-- 23.12.2025 [2025](/2025/) - Sam Rose
-- 21.11.2025 [tree-me: Because git worktrees shouldn�...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
+- 23.12.2025 [2025](https://samwho.dev/2025/) - Sam Rose
+- 21.11.2025 [tree-me: Because git worktrees shouldn...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 20.10.2025 [Use the saw, fear the saw](https://stephango.com/saw) - Steph Ango
 - 29.09.2025 [Spelungit: When `git log –grep` isn’...](https://haacked.com/archive/2025/09/29/announcing-spelungit/) - Phil Haack
 - 21.09.2025 [From single-tenant to multi-tenant](https://bobheadxi.dev/multi-tenant/) - Robert Lin
 - 20.09.2025 [Building and operating online services a...](https://bobheadxi.dev/managed-services-platform/) - Robert Lin
 - 30.08.2025 [Preview: Slice Up Bare-Metal with Slicer](https://blog.alexellis.io/slicer-bare-metal-preview/) - Alex Ellis
-- 23.08.2025 [Big O](/big-o/) - Sam Rose
+- 23.08.2025 [Big O](https://samwho.dev/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 31.07.2025 [If you're remote, ramble](https://stephango.com/ramblings) - Steph Ango
-- 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
+- 07.05.2025 [Reservoir Sampling](https://samwho.dev/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
-- 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
+- 20.12.2024 [Turing Machines](https://samwho.dev/turing-machines/) - Sam Rose
 - 03.12.2024 [Self-guaranteeing promises](https://stephango.com/self-guarantee) - Steph Ango
 - 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
 - 23.08.2024 [Scaling Sourcegraph’s managed multi-si...](https://bobheadxi.dev/multi-single-tenant/) - Robert Lin
 - 28.06.2024 [What can we remove?](https://stephango.com/remove) - Steph Ango
-- 01.06.2024 [A Commitment to Art and Dogs](/dogs/) - Sam Rose
+- 01.06.2024 [A Commitment to Art and Dogs](https://samwho.dev/dogs/) - Sam Rose
 - 09.05.2024 [Kafka 101](https://highscalability.com/untitled-2/) - High Scalability
 - 09.05.2024 [Love is freedom](https://stephango.com/love) - Steph Ango
 - 07.04.2024 [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html) - Erik Bernhardsson

@@ -18,21 +18,21 @@ import avatar from '@/assets/avatar.jpg'
       alt="Maximilian Hagelstam"
       width={120}
       height={120}
-      loading="eager"
-      decoding="async"
+      layout="fixed"
+      priority
       class="rounded-full grayscale"
     />
   </div>
 
   <div class="mt-8">
     <h2 class="mb-4 text-neutral-200">Find me on:</h2>
-    <div class="flex items-center gap-6">
+    <div class="flex items-center gap-1">
       <a
         href={config.social.github}
         target="_blank"
         rel="noopener noreferrer"
-        class="text-neutral-400 transition-all hover:text-neutral-200"
-        title="GitHub"
+        class="inline-flex min-h-11 min-w-11 items-center justify-center text-neutral-400 transition-colors hover:text-neutral-200"
+        aria-label="GitHub"
       >
         <Icon name="github" class="h-6 w-6" />
       </a>
@@ -40,8 +40,8 @@ import avatar from '@/assets/avatar.jpg'
         href={config.social.linkedin}
         target="_blank"
         rel="noopener noreferrer"
-        class="text-neutral-400 transition-all hover:text-neutral-200"
-        title="LinkedIn"
+        class="inline-flex min-h-11 min-w-11 items-center justify-center text-neutral-400 transition-colors hover:text-neutral-200"
+        aria-label="LinkedIn"
       >
         <Icon name="linkedin" class="h-6 w-6" />
       </a>

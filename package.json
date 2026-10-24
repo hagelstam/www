@@ -2,7 +2,7 @@
   "name": "maximilianhagelstam.com",
   "type": "module",
   "version": "0.0.1",
-  "packageManager": "pnpm@12.9.1",
+  "packageManager": "pnpm@12.15.0",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -12,16 +12,18 @@
     "clean": "rm -rf .astro .vercel .vscode node_modules dist"
   },
   "dependencies": {
+    "@astrojs/markdown-satteri": "^0.4.5",
     "@astrojs/sitemap": "^3.7.4",
-    "@astrojs/vercel": "^11.0.11",
-    "astro": "^7.3.5"
+    "@astrojs/vercel": "^11.0.16",
+    "astro": "^7.4.2",
+    "astro-expressive-code": "^0.44.3"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.10",
+    "@astrojs/check": "^0.9.12",
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.3",
-    "prettier": "^3.9.9",
-    "prettier-plugin-astro": "^1.1.0",
+    "prettier": "^3.9.10",
+    "prettier-plugin-astro": "^1.1.2",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3"
