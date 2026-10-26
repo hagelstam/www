@@ -13,14 +13,14 @@ This page is automatically updated every night with the latest posts from blogs 
 - 23.10.2026 [Shard design doesn't start from your tab...](https://planetscale.com/blog/shard-groups-the-unit-of-co-location) - PlanetScale
 - 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
 - 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
-- 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
 - 21.10.2026 [Help set Go's priorities for next year](https://go.dev/blog/survey2026-announce) - Go
+- 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
 - 20.10.2026 [Neki update: $50 Metal, read-only replic...](https://planetscale.com/blog/neki-updates-and-preparing-for-production) - PlanetScale
 - 16.10.2026 [Advancing Generative Recommendation Infe...](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/) - Spotify
 - 16.10.2026 [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring) - Go
 - 15.10.2026 [The Pulse: new trend of building “inte...](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - Gergely Orosz
-- 14.10.2026 [Sequences and other volatiles in Neki](https://planetscale.com/blog/neki-volatile-expressions) - PlanetScale
 - 14.10.2026 [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse) - Go
+- 14.10.2026 [Sequences and other volatiles in Neki](https://planetscale.com/blog/neki-volatile-expressions) - PlanetScale
 - 13.10.2026 [PlanetScale is now available on Azure](https://planetscale.com/blog/planetscale-is-now-on-azure) - PlanetScale
 - 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
 - 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
@@ -67,13 +67,12 @@ This page is automatically updated every night with the latest posts from blogs 
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
-- 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
 - 10.01.2026 [Floating Point Formatting](https://research.swtch.com/fp-all) - Russ Cox
 - 06.01.2026 [One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/) - Phil Haack
-- 23.12.2025 [2025](/2025/) - Sam Rose
+- 23.12.2025 [2025](https://samwho.dev/2025/) - Sam Rose
 - 21.11.2025 [tree-me: Because git worktrees shouldn�...](https://haacked.com/archive/2025/11/21/tree-me/) - Phil Haack
 - 18.11.2025 [I wrote a replacement for GitHub's code ...](https://blog.alexellis.io/ai-code-review-bot/) - Alex Ellis
 - 20.10.2025 [Use the saw, fear the saw](https://stephango.com/saw) - Steph Ango
@@ -81,26 +80,22 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.09.2025 [From single-tenant to multi-tenant](https://bobheadxi.dev/multi-tenant/) - Robert Lin
 - 20.09.2025 [Building and operating online services a...](https://bobheadxi.dev/managed-services-platform/) - Robert Lin
 - 30.08.2025 [Preview: Slice Up Bare-Metal with Slicer](https://blog.alexellis.io/slicer-bare-metal-preview/) - Alex Ellis
-- 23.08.2025 [Big O](/big-o/) - Sam Rose
+- 23.08.2025 [Big O](https://samwho.dev/big-o/) - Sam Rose
 - 18.08.2025 [I Bought An N100 Mini PC, Then Another](https://blog.alexellis.io/n100-mini-computer/) - Alex Ellis
 - 31.07.2025 [If you're remote, ramble](https://stephango.com/ramblings) - Steph Ango
-- 07.05.2025 [Reservoir Sampling](/reservoir-sampling/) - Sam Rose
+- 07.05.2025 [Reservoir Sampling](https://samwho.dev/reservoir-sampling/) - Sam Rose
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
-- 20.12.2024 [Turing Machines](/turing-machines/) - Sam Rose
+- 20.12.2024 [Turing Machines](https://samwho.dev/turing-machines/) - Sam Rose
 - 03.12.2024 [Self-guaranteeing promises](https://stephango.com/self-guarantee) - Steph Ango
-- 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
 - 23.08.2024 [Scaling Sourcegraph’s managed multi-si...](https://bobheadxi.dev/multi-single-tenant/) - Robert Lin
 - 28.06.2024 [What can we remove?](https://stephango.com/remove) - Steph Ango
-- 01.06.2024 [A Commitment to Art and Dogs](/dogs/) - Sam Rose
+- 01.06.2024 [A Commitment to Art and Dogs](https://samwho.dev/dogs/) - Sam Rose
 - 09.05.2024 [Kafka 101](https://highscalability.com/untitled-2/) - High Scalability
 - 09.05.2024 [Love is freedom](https://stephango.com/love) - Steph Ango
-- 07.04.2024 [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html) - Erik Bernhardsson
 - 26.03.2024 [Capturing A Billion Emo(j)i-ons](https://highscalability.com/capturing-a-billion-emo-j-i-ons/) - High Scalability
 - 14.03.2024 [Brief History of Scaling Uber](https://highscalability.com/brief-history-of-scaling-uber/) - High Scalability
 - 06.03.2024 [Behind AWS S3’s Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/) - High Scalability
-- 13.12.2023 [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html) - Erik Bernhardsson
 - 16.08.2023 [The Swedbank Outage shows that Change Co...](https://highscalability.com/the-swedbank-outage-shows-that-change-controls-dont-work/) - High Scalability
-- 07.12.2022 [What I have been working on: Modal](https://erikbern.com/2022/12/07/what-ive-been-working-on-modal.html) - Erik Bernhardsson
 - 10.10.2022 [Investing in the development of the deve...](https://bobheadxi.dev/investing-in-development-of-devx/) - Robert Lin
 - 21.05.2022 [Anatomy of a logger](https://bobheadxi.dev/anatomy-of-a-logger/) - Robert Lin
 - 17.05.2022 [Professional Programming: The First 10 Y...](http://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) - Thorsten Ball
