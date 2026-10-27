@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 26.10.2026 [Jobs every engineer should automate with...](https://newsletter.posthog.com/p/scheduled-agents) - PostHog
+- 26.10.2026 [Our Response To The eMudhra Key Disclosu...](https://go.dev/blog/emudhra-incident) - Go
 - 24.10.2026 [Seven years from China](https://world.hey.com/dhh/seven-years-from-china-a63b03cc) - DHH
 - 24.10.2026 [Be a tech bro](https://world.hey.com/dhh/be-a-tech-bro-30db1962) - DHH
 - 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
@@ -38,7 +40,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
 - 24.09.2026 [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - Gergely Orosz
-- 24.09.2026 [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) - Go
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
@@ -49,7 +50,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
-- 25.08.2026 [You need to find product-market fit agai...](https://newsletter.posthog.com/p/you-need-to-find-product-market-fit) - PostHog
 - 13.08.2026 [Agentic Engineering at Zalando: a snapsh...](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html) - Zalando
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
@@ -67,6 +67,7 @@ This page is automatically updated every night with the latest posts from blogs 
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
 - 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
+- 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
 - 19.01.2026 [Floating-Point Printing and Parsing Can ...](https://research.swtch.com/fp) - Russ Cox
 - 10.01.2026 [Pulling a New Proof from Knuth’s Fixed...](https://research.swtch.com/fp-knuth) - Russ Cox
@@ -87,15 +88,19 @@ This page is automatically updated every night with the latest posts from blogs 
 - 25.04.2025 [Differential Coverage for Debugging](https://research.swtch.com/diffcover) - Russ Cox
 - 20.12.2024 [Turing Machines](https://samwho.dev/turing-machines/) - Sam Rose
 - 03.12.2024 [Self-guaranteeing promises](https://stephango.com/self-guarantee) - Steph Ango
+- 27.09.2024 [It's hard to write code for computers, b...](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) - Erik Bernhardsson
 - 23.08.2024 [Scaling Sourcegraph’s managed multi-si...](https://bobheadxi.dev/multi-single-tenant/) - Robert Lin
 - 28.06.2024 [What can we remove?](https://stephango.com/remove) - Steph Ango
 - 01.06.2024 [A Commitment to Art and Dogs](https://samwho.dev/dogs/) - Sam Rose
 - 09.05.2024 [Kafka 101](https://highscalability.com/untitled-2/) - High Scalability
 - 09.05.2024 [Love is freedom](https://stephango.com/love) - Steph Ango
+- 07.04.2024 [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html) - Erik Bernhardsson
 - 26.03.2024 [Capturing A Billion Emo(j)i-ons](https://highscalability.com/capturing-a-billion-emo-j-i-ons/) - High Scalability
 - 14.03.2024 [Brief History of Scaling Uber](https://highscalability.com/brief-history-of-scaling-uber/) - High Scalability
 - 06.03.2024 [Behind AWS S3’s Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/) - High Scalability
+- 13.12.2023 [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html) - Erik Bernhardsson
 - 16.08.2023 [The Swedbank Outage shows that Change Co...](https://highscalability.com/the-swedbank-outage-shows-that-change-controls-dont-work/) - High Scalability
+- 07.12.2022 [What I have been working on: Modal](https://erikbern.com/2022/12/07/what-ive-been-working-on-modal.html) - Erik Bernhardsson
 - 10.10.2022 [Investing in the development of the deve...](https://bobheadxi.dev/investing-in-development-of-devx/) - Robert Lin
 - 21.05.2022 [Anatomy of a logger](https://bobheadxi.dev/anatomy-of-a-logger/) - Robert Lin
 - 17.05.2022 [Professional Programming: The First 10 Y...](http://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) - Thorsten Ball
