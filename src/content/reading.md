@@ -7,13 +7,14 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 29.10.2026 [Designing a planned switchover for minim...](https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption) - PlanetScale
 - 27.10.2026 [What was the turning point for Postgres?](https://planetscale.com/blog/what-was-the-turning-point-for-postgres) - PlanetScale
 - 26.10.2026 [Jobs every engineer should automate with...](https://newsletter.posthog.com/p/scheduled-agents) - PostHog
 - 26.10.2026 [Our Response To The eMudhra Key Disclosu...](https://go.dev/blog/emudhra-incident) - Go
 - 24.10.2026 [Seven years from China](https://world.hey.com/dhh/seven-years-from-china-a63b03cc) - DHH
 - 24.10.2026 [Be a tech bro](https://world.hey.com/dhh/be-a-tech-bro-30db1962) - DHH
-- 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
 - 23.10.2026 [Shard design doesn't start from your tab...](https://planetscale.com/blog/shard-groups-the-unit-of-co-location) - PlanetScale
+- 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
 - 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
 - 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
 - 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
@@ -23,7 +24,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.10.2026 [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring) - Go
 - 15.10.2026 [The Pulse: new trend of building “inte...](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - Gergely Orosz
 - 14.10.2026 [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse) - Go
-- 14.10.2026 [Sequences and other volatiles in Neki](https://planetscale.com/blog/neki-volatile-expressions) - PlanetScale
 - 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
 - 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
 - 08.10.2026 [The Pulse: Firebase’s global outage & ...](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - Gergely Orosz
