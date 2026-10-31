@@ -7,6 +7,8 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 30.10.2026 [The Pulse: Time to rethink software secu...](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - Gergely Orosz
+- 29.10.2026 [Upgrading MLflow Pipelines Across a Pyth...](https://engineering.zalando.com/posts/2026/10/upgrading-mlflow-pipelines.html) - Zalando
 - 29.10.2026 [Designing a planned switchover for minim...](https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption) - PlanetScale
 - 27.10.2026 [What was the turning point for Postgres?](https://planetscale.com/blog/what-was-the-turning-point-for-postgres) - PlanetScale
 - 26.10.2026 [Jobs every engineer should automate with...](https://newsletter.posthog.com/p/scheduled-agents) - PostHog
@@ -39,7 +41,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 28.09.2026 [We're building multiplayer AI. Here's wh...](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) - PostHog
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
-- 24.09.2026 [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - Gergely Orosz
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
@@ -50,7 +51,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
-- 13.08.2026 [Agentic Engineering at Zalando: a snapsh...](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html) - Zalando
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
