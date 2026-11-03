@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 02.11.2026 [Analytics has changed. Here's what to do...](https://newsletter.posthog.com/p/analytics-changed) - PostHog
 - 30.10.2026 [The Pulse: Time to rethink software secu...](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - Gergely Orosz
 - 29.10.2026 [Upgrading MLflow Pipelines Across a Pyth...](https://engineering.zalando.com/posts/2026/10/upgrading-mlflow-pipelines.html) - Zalando
 - 29.10.2026 [Designing a planned switchover for minim...](https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption) - PlanetScale
@@ -15,8 +16,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 26.10.2026 [Our Response To The eMudhra Key Disclosu...](https://go.dev/blog/emudhra-incident) - Go
 - 24.10.2026 [Seven years from China](https://world.hey.com/dhh/seven-years-from-china-a63b03cc) - DHH
 - 24.10.2026 [Be a tech bro](https://world.hey.com/dhh/be-a-tech-bro-30db1962) - DHH
-- 23.10.2026 [Shard design doesn't start from your tab...](https://planetscale.com/blog/shard-groups-the-unit-of-co-location) - PlanetScale
 - 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
+- 23.10.2026 [Shard design doesn't start from your tab...](https://planetscale.com/blog/shard-groups-the-unit-of-co-location) - PlanetScale
 - 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
 - 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
 - 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
@@ -50,7 +51,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
 - 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
-- 31.08.2026 [Read this before deleting your AGENTS.md](https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back) - PostHog
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
 - 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
