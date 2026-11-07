@@ -27,6 +27,7 @@ if (pathname.endsWith('/') && pathname !== '/') {
           return (
             <a
               href={path}
+              data-astro-prefetch="load"
               aria-current={
                 pathname === path ? 'page' : isActive ? 'true' : undefined
               }
