@@ -7,26 +7,33 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 17.11.2026 [Introducing Insights Agent](https://planetscale.com/blog/introducing-insights-agent) - PlanetScale
+- 13.11.2026 [Throwing Out The Phonebook](https://fly.io/blog/throwing-out-the-phonebook/) - Fly
+- 12.11.2026 [The Pulse: Details of incident.io’s AI...](https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/) - Gergely Orosz
+- 11.11.2026 [How we migrate TBs from Heroku without l...](https://planetscale.com/blog/migrate-from-heroku-to-planetscale) - PlanetScale
+- 10.11.2026 [Go Turns 17](https://go.dev/blog/17years) - Go
+- 09.11.2026 [Not everything needs an LLM](https://newsletter.posthog.com/p/decision-models) - PostHog
+- 09.11.2026 [AI Product Management at Spotify: A View...](https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/) - Spotify
+- 06.11.2026 [Well, That Wasn't Fun: October 16 '26](https://fly.io/blog/well-that-wasnt-fun/) - Fly
+- 06.11.2026 [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - Mitchell Hashimoto
+- 05.11.2026 [Designing a reliable unplanned failover](https://planetscale.com/blog/designing-a-reliable-unplanned-failover) - PlanetScale
+- 04.11.2026 [A new Go API for JSON](https://go.dev/blog/jsonv2) - Go
 - 03.11.2026 [The hidden latency inside your database](https://planetscale.com/blog/the-hidden-latency-inside-your-database) - PlanetScale
 - 02.11.2026 [Analytics has changed. Here's what to do...](https://newsletter.posthog.com/p/analytics-changed) - PostHog
 - 30.10.2026 [The Pulse: Time to rethink software secu...](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - Gergely Orosz
 - 29.10.2026 [Upgrading MLflow Pipelines Across a Pyth...](https://engineering.zalando.com/posts/2026/10/upgrading-mlflow-pipelines.html) - Zalando
 - 29.10.2026 [Designing a planned switchover for minim...](https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption) - PlanetScale
-- 27.10.2026 [What was the turning point for Postgres?](https://planetscale.com/blog/what-was-the-turning-point-for-postgres) - PlanetScale
 - 26.10.2026 [Jobs every engineer should automate with...](https://newsletter.posthog.com/p/scheduled-agents) - PostHog
 - 26.10.2026 [Our Response To The eMudhra Key Disclosu...](https://go.dev/blog/emudhra-incident) - Go
 - 24.10.2026 [Seven years from China](https://world.hey.com/dhh/seven-years-from-china-a63b03cc) - DHH
 - 24.10.2026 [Be a tech bro](https://world.hey.com/dhh/be-a-tech-bro-30db1962) - DHH
-- 23.10.2026 [Shard design doesn't start from your tab...](https://planetscale.com/blog/shard-groups-the-unit-of-co-location) - PlanetScale
 - 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
 - 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
 - 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
-- 21.10.2026 [I don't trust ON DELETE CASCADE](https://planetscale.com/blog/i-dont-like-delete-cascade) - PlanetScale
 - 21.10.2026 [Help set Go's priorities for next year](https://go.dev/blog/survey2026-announce) - Go
 - 16.10.2026 [Advancing Generative Recommendation Infe...](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/) - Spotify
 - 16.10.2026 [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring) - Go
 - 15.10.2026 [The Pulse: new trend of building “inte...](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - Gergely Orosz
-- 14.10.2026 [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse) - Go
 - 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
 - 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
 - 08.10.2026 [The Pulse: Firebase’s global outage & ...](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - Gergely Orosz
@@ -37,23 +44,18 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.10.2026 [A Terminal Protocol for Program Status (...](https://mitchellh.com/writing/program-status-osc7501) - Mitchell Hashimoto
 - 05.10.2026 [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/) - Faith Arslan
 - 05.10.2026 [What on earth are you dooming about?](https://world.hey.com/dhh/what-on-earth-are-you-dooming-about-386cc1da) - DHH
-- 02.10.2026 [Arch-specific SIMD in Go](https://go.dev/blog/archsimd) - Go
-- 01.10.2026 [The Pulse: RoR creator sparks new “dea...](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - Gergely Orosz
 - 28.09.2026 [We're building multiplayer AI. Here's wh...](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) - PostHog
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
-- 14.09.2026 [What happens to engineers when AI writes...](https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left) - PostHog
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
 - 08.09.2026 [Why Spotify Is Not Using Bayesian A/B Te...](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) - Spotify
-- 03.09.2026 [Portal by Spotify cut my Claude Code tok...](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/) - Spotify
 - 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
-- 24.07.2026 [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) - Fly
 - 22.07.2026 [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - Mitchell Hashimoto
 - 21.07.2026 [Some more things about Django I've been ...](https://jvns.ca/blog/2026/07/21/more-nice-django-things/) - Julia Evans
 - 20.07.2026 [Sign Commits from Anywhere Without Your ...](https://haacked.com/archive/2026/07/20/remote-commit-signing/) - Phil Haack
@@ -61,11 +63,9 @@ This page is automatically updated every night with the latest posts from blogs 
 - 21.06.2026 [Pledging Another $400,000 to the Zig Sof...](https://mitchellh.com/writing/zig-donation-2026) - Mitchell Hashimoto
 - 17.06.2026 [Local Qwen isn't a worse Opus, it's a di...](https://blog.alexellis.io/local-ai-is-not-opus/) - Alex Ellis
 - 16.06.2026 [Kubernetes runs on feedback loops](https://arslan.io/2026/06/16/kubernetes-runs-on-feedback-loops/) - Faith Arslan
-- 08.06.2026 [Building Agents that Don't Break Themsel...](https://fly.io/blog/building-agents-that-dont-break-themselves/) - Fly
 - 02.06.2026 [Review of the MoErgo Go60 Keyboard](https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/) - Faith Arslan
 - 15.05.2026 [Moving away from Tailwind, and learning ...](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) - Julia Evans
 - 04.05.2026 [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) - Julia Evans
-- 28.04.2026 [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - Mitchell Hashimoto
 - 25.03.2026 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/) - Phil Haack
 - 25.02.2026 [Software companies buying software: a st...](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) - Erik Bernhardsson
 - 19.01.2026 [Fast Unrounded Scaling: Proof by Ivy](https://research.swtch.com/fp-proof) - Russ Cox
