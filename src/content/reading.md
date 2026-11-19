@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 18.11.2026 [PlanetScale ranks #24 in Deloitte's Tech...](https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500) - PlanetScale
 - 17.11.2026 [Introducing Insights Agent](https://planetscale.com/blog/introducing-insights-agent) - PlanetScale
 - 13.11.2026 [Throwing Out The Phonebook](https://fly.io/blog/throwing-out-the-phonebook/) - Fly
 - 12.11.2026 [The Pulse: Details of incident.io’s AI...](https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/) - Gergely Orosz
@@ -22,7 +23,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 02.11.2026 [Analytics has changed. Here's what to do...](https://newsletter.posthog.com/p/analytics-changed) - PostHog
 - 30.10.2026 [The Pulse: Time to rethink software secu...](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - Gergely Orosz
 - 29.10.2026 [Upgrading MLflow Pipelines Across a Pyth...](https://engineering.zalando.com/posts/2026/10/upgrading-mlflow-pipelines.html) - Zalando
-- 29.10.2026 [Designing a planned switchover for minim...](https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption) - PlanetScale
 - 26.10.2026 [Jobs every engineer should automate with...](https://newsletter.posthog.com/p/scheduled-agents) - PostHog
 - 26.10.2026 [Our Response To The eMudhra Key Disclosu...](https://go.dev/blog/emudhra-incident) - Go
 - 24.10.2026 [Seven years from China](https://world.hey.com/dhh/seven-years-from-china-a63b03cc) - DHH
