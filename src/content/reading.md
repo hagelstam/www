@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 19.11.2026 [The Pulse: What can we learn from the Ra...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/) - Gergely Orosz
+- 19.11.2026 [When Can You Ship on Offline Evals Alone...](https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/) - Spotify
+- 19.11.2026 [Building PlanetScale with Insights Agent](https://planetscale.com/blog/building-planetscale-with-insights-agent) - PlanetScale
 - 18.11.2026 [PlanetScale ranks #24 in Deloitte's Tech...](https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500) - PlanetScale
 - 17.11.2026 [Introducing Insights Agent](https://planetscale.com/blog/introducing-insights-agent) - PlanetScale
 - 13.11.2026 [Throwing Out The Phonebook](https://fly.io/blog/throwing-out-the-phonebook/) - Fly
@@ -19,7 +22,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.11.2026 [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - Mitchell Hashimoto
 - 05.11.2026 [Designing a reliable unplanned failover](https://planetscale.com/blog/designing-a-reliable-unplanned-failover) - PlanetScale
 - 04.11.2026 [A new Go API for JSON](https://go.dev/blog/jsonv2) - Go
-- 03.11.2026 [The hidden latency inside your database](https://planetscale.com/blog/the-hidden-latency-inside-your-database) - PlanetScale
 - 02.11.2026 [Analytics has changed. Here's what to do...](https://newsletter.posthog.com/p/analytics-changed) - PostHog
 - 30.10.2026 [The Pulse: Time to rethink software secu...](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - Gergely Orosz
 - 29.10.2026 [Upgrading MLflow Pipelines Across a Pyth...](https://engineering.zalando.com/posts/2026/10/upgrading-mlflow-pipelines.html) - Zalando
@@ -36,7 +38,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 15.10.2026 [The Pulse: new trend of building “inte...](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - Gergely Orosz
 - 12.10.2026 [38 things we've learned about building A...](https://newsletter.posthog.com/p/38-things-weve-learned-about-building) - PostHog
 - 11.10.2026 [Automating Data Ingestion with a RAG Fly...](https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html) - Zalando
-- 08.10.2026 [The Pulse: Firebase’s global outage & ...](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - Gergely Orosz
 - 08.10.2026 [Introducing: Spotify Technology. Proven ...](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/) - Spotify
 - 07.10.2026 [Thundering herd of circuit breakers](https://engineering.zalando.com/posts/2026/10/thundering-herd-of-circuit-breakers.html) - Zalando
 - 07.10.2026 [Redundancy is the engine of progress](https://world.hey.com/dhh/redundancy-is-the-engine-of-progress-76499402) - DHH
@@ -51,7 +52,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
-- 08.09.2026 [Why Spotify Is Not Using Bayesian A/B Te...](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/) - Spotify
 - 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
