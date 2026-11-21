@@ -7,6 +7,7 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 20.11.2026 [Petsem: Sometimes Dead Is Better](https://fly.io/blog/petsem/) - Fly
 - 19.11.2026 [The Pulse: What can we learn from the Ra...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/) - Gergely Orosz
 - 19.11.2026 [When Can You Ship on Offline Evals Alone...](https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/) - Spotify
 - 19.11.2026 [Building PlanetScale with Insights Agent](https://planetscale.com/blog/building-planetscale-with-insights-agent) - PlanetScale
@@ -18,8 +19,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.11.2026 [Go Turns 17](https://go.dev/blog/17years) - Go
 - 09.11.2026 [Not everything needs an LLM](https://newsletter.posthog.com/p/decision-models) - PostHog
 - 09.11.2026 [AI Product Management at Spotify: A View...](https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/) - Spotify
-- 06.11.2026 [Well, That Wasn't Fun: October 16 '26](https://fly.io/blog/well-that-wasnt-fun/) - Fly
 - 06.11.2026 [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - Mitchell Hashimoto
+- 06.11.2026 [Well, That Wasn't Fun: October 16 '26](https://fly.io/blog/well-that-wasnt-fun/) - Fly
 - 05.11.2026 [Designing a reliable unplanned failover](https://planetscale.com/blog/designing-a-reliable-unplanned-failover) - PlanetScale
 - 04.11.2026 [A new Go API for JSON](https://go.dev/blog/jsonv2) - Go
 - 02.11.2026 [Analytics has changed. Here's what to do...](https://newsletter.posthog.com/p/analytics-changed) - PostHog
@@ -52,7 +53,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
-- 03.09.2026 [Your Agent Speaks MCP. Give It a Compute...](https://fly.io/blog/sprites-mcp/) - Fly
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
 - 10.08.2026 [Joining Cursor](https://arslan.io/2026/08/10/joining-cursor/) - Faith Arslan
 - 29.07.2026 [Superlogical](https://mitchellh.com/writing/superlogical) - Mitchell Hashimoto
