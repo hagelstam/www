@@ -7,6 +7,9 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 23.11.2026 [Stop asking users what they want](https://newsletter.posthog.com/p/user-interviews) - PostHog
+- 23.11.2026 [Why you shouldn't do application-level s...](https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding) - PlanetScale
+- 23.11.2026 [Holding the Door for Agents](https://fly.io/blog/holding-the-door-for-agents/) - Fly
 - 20.11.2026 [Petsem: Sometimes Dead Is Better](https://fly.io/blog/petsem/) - Fly
 - 19.11.2026 [The Pulse: What can we learn from the Ra...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/) - Gergely Orosz
 - 19.11.2026 [When Can You Ship on Offline Evals Alone...](https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/) - Spotify
@@ -19,9 +22,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.11.2026 [Go Turns 17](https://go.dev/blog/17years) - Go
 - 09.11.2026 [Not everything needs an LLM](https://newsletter.posthog.com/p/decision-models) - PostHog
 - 09.11.2026 [AI Product Management at Spotify: A View...](https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/) - Spotify
-- 06.11.2026 [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - Mitchell Hashimoto
 - 06.11.2026 [Well, That Wasn't Fun: October 16 '26](https://fly.io/blog/well-that-wasnt-fun/) - Fly
-- 05.11.2026 [Designing a reliable unplanned failover](https://planetscale.com/blog/designing-a-reliable-unplanned-failover) - PlanetScale
+- 06.11.2026 [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - Mitchell Hashimoto
 - 04.11.2026 [A new Go API for JSON](https://go.dev/blog/jsonv2) - Go
 - 02.11.2026 [Analytics has changed. Here's what to do...](https://newsletter.posthog.com/p/analytics-changed) - PostHog
 - 30.10.2026 [The Pulse: Time to rethink software secu...](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - Gergely Orosz
@@ -32,7 +34,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 24.10.2026 [Be a tech bro](https://world.hey.com/dhh/be-a-tech-bro-30db1962) - DHH
 - 23.10.2026 [Feng Shui for Robots: The Fly MCP Server](https://fly.io/blog/feng-shui-for-robots/) - Fly
 - 22.10.2026 [The Pulse: Anthropic builds its own sour...](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - Gergely Orosz
-- 22.10.2026 [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/) - Fly
 - 21.10.2026 [Help set Go's priorities for next year](https://go.dev/blog/survey2026-announce) - Go
 - 16.10.2026 [Advancing Generative Recommendation Infe...](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/) - Spotify
 - 16.10.2026 [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring) - Go
@@ -46,7 +47,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 06.10.2026 [A Terminal Protocol for Program Status (...](https://mitchellh.com/writing/program-status-osc7501) - Mitchell Hashimoto
 - 05.10.2026 [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/) - Faith Arslan
 - 05.10.2026 [What on earth are you dooming about?](https://world.hey.com/dhh/what-on-earth-are-you-dooming-about-386cc1da) - DHH
-- 28.09.2026 [We're building multiplayer AI. Here's wh...](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) - PostHog
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
