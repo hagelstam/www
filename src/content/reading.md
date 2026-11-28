@@ -7,9 +7,10 @@ description: Automatically generated from RSS feeds I follow
 
 This page is automatically updated every night with the latest posts from blogs I follow.
 
+- 27.11.2026 [September 29 Outage Incident Report: Wha...](https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/) - Spotify
 - 23.11.2026 [Stop asking users what they want](https://newsletter.posthog.com/p/user-interviews) - PostHog
-- 23.11.2026 [Why you shouldn't do application-level s...](https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding) - PlanetScale
 - 23.11.2026 [Holding the Door for Agents](https://fly.io/blog/holding-the-door-for-agents/) - Fly
+- 23.11.2026 [Why you shouldn't do application-level s...](https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding) - PlanetScale
 - 20.11.2026 [Petsem: Sometimes Dead Is Better](https://fly.io/blog/petsem/) - Fly
 - 19.11.2026 [The Pulse: What can we learn from the Ra...](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/) - Gergely Orosz
 - 19.11.2026 [When Can You Ship on Offline Evals Alone...](https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/) - Spotify
@@ -22,8 +23,8 @@ This page is automatically updated every night with the latest posts from blogs 
 - 10.11.2026 [Go Turns 17](https://go.dev/blog/17years) - Go
 - 09.11.2026 [Not everything needs an LLM](https://newsletter.posthog.com/p/decision-models) - PostHog
 - 09.11.2026 [AI Product Management at Spotify: A View...](https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/) - Spotify
-- 06.11.2026 [Well, That Wasn't Fun: October 16 '26](https://fly.io/blog/well-that-wasnt-fun/) - Fly
 - 06.11.2026 [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - Mitchell Hashimoto
+- 06.11.2026 [Well, That Wasn't Fun: October 16 '26](https://fly.io/blog/well-that-wasnt-fun/) - Fly
 - 04.11.2026 [A new Go API for JSON](https://go.dev/blog/jsonv2) - Go
 - 02.11.2026 [Analytics has changed. Here's what to do...](https://newsletter.posthog.com/p/analytics-changed) - PostHog
 - 30.10.2026 [The Pulse: Time to rethink software secu...](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - Gergely Orosz
@@ -50,7 +51,6 @@ This page is automatically updated every night with the latest posts from blogs 
 - 27.09.2026 [Replacing the old battery on rechargeabl...](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Julia Evans
 - 24.09.2026 [Agentic Platform: Open-Sourcing the Agen...](https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html) - Zalando
 - 19.09.2026 [What I believe about the future of softw...](http://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/) - Thorsten Ball
-- 16.09.2026 [AI Changed How Spotify Builds. What We L...](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/) - Spotify
 - 15.09.2026 [How and Why We Bought 4x DGX Sparks](https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks/) - Alex Ellis
 - 11.09.2026 [How I manage my agents](https://arslan.io/2026/09/11/how-i-manage-my-agents/) - Faith Arslan
 - 31.08.2026 [Scaling Reliable Experimentation in a Tw...](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html) - Zalando
